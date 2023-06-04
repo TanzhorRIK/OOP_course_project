@@ -43,13 +43,13 @@ class HHVacancyAPI(VacancyAPI):
         self.region = region
 
     def connect(self, page: int = 0) -> str:
+        """Метод для подключения к API"""
+
         params = {
             'text': 'NAME:' + self.search_text,
-            # Текст фильтра. В имени должно быть слово "Аналитик"
             'area': self.region,
-            # Поиск ощуществляется по вакансиям города Москва
-            'page': page,  # Индекс страницы поиска на HH
-            'per_page': 100  # Кол-во вакансий на 1 странице
+            'page': page,
+            'per_page': 100
         }
         try:
             req = requests.get('https://api.hh.ru/vacancies', params)
@@ -60,6 +60,8 @@ class HHVacancyAPI(VacancyAPI):
             print("failed to connect to the server")
 
     def get_vacancies(self) -> None:
+        """метод для получения вакансий с API в файл"""
+
         try:
             os.mkdir("../vacanci")
         except:
@@ -90,6 +92,8 @@ class SJVacancyAPI(VacancyAPI):
         self.region = region
 
     def connect(self, page: int = 0) -> str:
+        """Метод для подключения к API"""
+
         params = {'town': 14,
                   'count': 100,
                   'keyword': self.search_text
@@ -104,6 +108,8 @@ class SJVacancyAPI(VacancyAPI):
         return data
 
     def get_vacancies(self) -> None:
+        """Метод для подключения к API"""
+
         try:
             os.mkdir("../vacanci")
         except:
@@ -128,6 +134,8 @@ class Vacancy:
         self.employment = employment
 
     def validate(self):
+        """Метод проверки данных"""
+
         if not self.title or not self.area or not self.salary or not self.employment:
             return False
         return True
@@ -167,6 +175,8 @@ class JSONVacancyFileManager(VacancyFileManager):
         open(filename, 'w').close()
 
     def add_vacancy(self, vacancy: Vacancy) -> None:
+        """Метод для добавления вакансий в файл"""
+
         with open(self.filename, 'a', encoding="utf-8") as file:
             vacancy_data = {
                 'title': vacancy.title,
@@ -178,6 +188,8 @@ class JSONVacancyFileManager(VacancyFileManager):
             file.write('\n')
 
     def get_vacancies(self, criterion: str, requirement: str) -> list:
+        """Метод для получения вакансий из файла"""
+
         vacancies = []
         with open(self.filename, 'r', encoding="utf-8") as file:
             for line in file:
@@ -212,6 +224,8 @@ class JSONVacancyFileManager(VacancyFileManager):
         return vacancies
 
     def remove_vacancy(self, index_of_string_result_json: list) -> None:
+        """Метод для удаления вакансий из файла"""
+
         with open(self.filename, "r", encoding="utf-8") as in_f:
             lines = [line for line in in_f]
         with open(self.filename, 'w', encoding="utf-8") as file:
