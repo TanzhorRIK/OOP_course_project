@@ -8,6 +8,8 @@ SUPERJOB_API_KEY = os.environ.get('SUPERJOB_API_KEY')
 
 
 class VacancyAPI(ABC):
+    """Обстарктный класс"""
+
     @abstractmethod
     def connect(self):
         pass
@@ -18,6 +20,8 @@ class VacancyAPI(ABC):
 
 
 class VacancyFileManager(ABC):
+    """Обстарктный класс"""
+
     @abstractmethod
     def add_vacancy(self, vacancy):
         pass
@@ -32,12 +36,13 @@ class VacancyFileManager(ABC):
 
 
 class HHVacancyAPI(VacancyAPI):
-    def __init__(self, search_text, region=1202):
+    """Класс для подключения к API hh.ru"""
+
+    def __init__(self, search_text, region=1202) -> None:
         self.search_text = search_text
         self.region = region
 
-    def connect(self, page=0):
-        # Здесь можно добавить код для подключения к API сайта hh.ru
+    def connect(self, page: int = 0) -> str:
         params = {
             'text': 'NAME:' + self.search_text,
             # Текст фильтра. В имени должно быть слово "Аналитик"
@@ -54,11 +59,11 @@ class HHVacancyAPI(VacancyAPI):
         except:
             print("failed to connect to the server")
 
-    def get_vacancies(self):
+    def get_vacancies(self) -> None:
         try:
             os.mkdir("../vacanci")
         except:
-            print("the folder has already been created")
+            pass
         for page in range(0, 20):
 
             jsObj = json.loads(self.connect(page))
@@ -78,11 +83,13 @@ class HHVacancyAPI(VacancyAPI):
 
 
 class SJVacancyAPI(VacancyAPI):
-    def __init__(self, search_text, region=13):
+    """Класс для подключения к API superjob.ru"""
+
+    def __init__(self, search_text: str, region: int = 13) -> None:
         self.search_text = search_text
         self.region = region
 
-    def connect(self, page=0):
+    def connect(self, page: int = 0) -> str:
         params = {'town': 14,
                   'count': 100,
                   'keyword': self.search_text
@@ -96,11 +103,11 @@ class SJVacancyAPI(VacancyAPI):
         req.close()
         return data
 
-    def get_vacancies(self):
+    def get_vacancies(self) -> None:
         try:
             os.mkdir("../vacanci")
         except:
-            print("the folder has already been created")
+            pass
 
         for page in range(0, 20):
             jsObj = json.loads(self.connect(page))
@@ -111,7 +118,10 @@ class SJVacancyAPI(VacancyAPI):
 
 
 class Vacancy:
-    def __init__(self, title=None, area=None, salary=None, employment=None):
+    """Класс для созданной вакансии"""
+
+    def __init__(self, title=None, area=None, salary=None,
+                 employment=None) -> None:
         self.title = title
         self.area = area
         self.salary = salary
@@ -150,10 +160,13 @@ class Vacancy:
 
 
 class JSONVacancyFileManager(VacancyFileManager):
+    """Файловый менеджер"""
+
     def __init__(self, filename="../vacanci/result.json"):
         self.filename = filename
+        open(filename, 'w').close()
 
-    def add_vacancy(self, vacancy):
+    def add_vacancy(self, vacancy: Vacancy) -> None:
         with open(self.filename, 'a', encoding="utf-8") as file:
             vacancy_data = {
                 'title': vacancy.title,
@@ -164,20 +177,41 @@ class JSONVacancyFileManager(VacancyFileManager):
             json.dump(vacancy_data, file, ensure_ascii=False)
             file.write('\n')
 
-    def get_vacancies(self):
+    def get_vacancies(self, criterion: str, requirement: str) -> list:
         vacancies = []
         with open(self.filename, 'r', encoding="utf-8") as file:
             for line in file:
                 vacancy_data = json.loads(line)
-                vacancies.append(Vacancy(
-                    vacancy_data['title'],
-                    vacancy_data['area'],
-                    vacancy_data['salary'],
-                    vacancy_data['employment']))
+                if criterion == "зарплата" and int(requirement) >= vacancy_data['salary']:
+                    vacancies.append(Vacancy(
+                        vacancy_data['title'],
+                        vacancy_data['area'],
+                        vacancy_data['salary'],
+                        vacancy_data['employment']))
+                elif criterion == "название" and requirement.lower() in vacancy_data["title"].lower():
+                    vacancies.append(Vacancy(
+                        vacancy_data['title'],
+                        vacancy_data['area'],
+                        vacancy_data['salary'],
+                        vacancy_data['employment']))
+                elif criterion == "место" and requirement.lower() in vacancy_data['area'].lower():
+                    vacancies.append(Vacancy(
+                        vacancy_data['title'],
+                        vacancy_data['area'],
+                        vacancy_data['salary'],
+                        vacancy_data['employment']))
+                elif criterion == "занятость" and requirement.lower() in vacancy_data['employment'].lower():
+                    vacancies.append(Vacancy(
+                        vacancy_data['title'],
+                        vacancy_data['area'],
+                        vacancy_data['salary'],
+                        vacancy_data['employment']))
+                else:
+                    continue
 
         return vacancies
 
-    def remove_vacancy(self, index_of_string_result_json):
+    def remove_vacancy(self, index_of_string_result_json: list) -> None:
         with open(self.filename, "r", encoding="utf-8") as in_f:
             lines = [line for line in in_f]
         with open(self.filename, 'w', encoding="utf-8") as file:
