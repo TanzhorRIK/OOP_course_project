@@ -194,25 +194,10 @@ class JSONVacancyFileManager(VacancyFileManager):
         with open(self.filename, 'r', encoding="utf-8") as file:
             for line in file:
                 vacancy_data = json.loads(line)
-                if criterion == "зарплата" and int(requirement) >= vacancy_data['salary']:
-                    vacancies.append(Vacancy(
-                        vacancy_data['title'],
-                        vacancy_data['area'],
-                        vacancy_data['salary'],
-                        vacancy_data['employment']))
-                elif criterion == "название" and requirement.lower() in vacancy_data["title"].lower():
-                    vacancies.append(Vacancy(
-                        vacancy_data['title'],
-                        vacancy_data['area'],
-                        vacancy_data['salary'],
-                        vacancy_data['employment']))
-                elif criterion == "место" and requirement.lower() in vacancy_data['area'].lower():
-                    vacancies.append(Vacancy(
-                        vacancy_data['title'],
-                        vacancy_data['area'],
-                        vacancy_data['salary'],
-                        vacancy_data['employment']))
-                elif criterion == "занятость" and requirement.lower() in vacancy_data['employment'].lower():
+                if (criterion == "зарплата" and int(requirement) >= vacancy_data['salary'] or
+                        criterion == "название" and requirement.lower() in vacancy_data["title"].lower() or
+                        criterion == "место" and requirement.lower() in vacancy_data['area'].lower() or
+                        criterion == "занятость" and requirement.lower() in vacancy_data['employment'].lower()):
                     vacancies.append(Vacancy(
                         vacancy_data['title'],
                         vacancy_data['area'],
