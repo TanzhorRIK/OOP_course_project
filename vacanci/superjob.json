@@ -3401,7 +3401,7 @@
                 "link":"https://www.superjob.ru/clients/mbou-srednyaya-obscheobrazovatelnaya-shkola-1-g-reutov-2640956/vacancies.html",
                 "industry":[],
                 "description":"Средняя общеобразовательная школа.",
-                "vacancy_count":15,
+                "vacancy_count":9,
                 "staff_count":"менее 50",
                 "client_logo":null,
                 "address":null,
@@ -5605,133 +5605,6 @@
         {
             "canEdit":false,
             "is_closed":false,
-            "id":46480570,
-            "id_client":3935786,
-            "payment_from":85000,
-            "payment_to":0,
-            "date_pub_to":1688049246,
-            "date_archived":0,
-            "date_published":1685457246,
-            "address":"Москва, ТиНАО поселение Киевское, Поселение Новофедоровское, Поселение Первомайское",
-            "profession":"Учитель химии и биологии",
-            "work":null,
-            "compensation":null,
-            "candidat":"Обязанности:\n• преподавание биологии;\n• заполнение журнала;\n• подготовка материалов к занятию;",
-            "metro":[],
-            "currency":"rub",
-            "vacancyRichText":"<p><b>Обязанности:</b><ul><li>преподавание биологии;</li><li>заполнение журнала;</li><li>подготовка материалов к занятию;</li></ul></p>",
-            "covid_vaccination_requirement":{
-                "id":1,
-                "title":"Не важно"
-            },
-            "moveable":true,
-            "agreement":false,
-            "anonymous":false,
-            "is_archive":false,
-            "is_storage":false,
-            "type_of_work":{
-                "id":6,
-                "title":"Полный рабочий день"
-            },
-            "place_of_work":{
-                "id":0,
-                "title":"Не имеет значения"
-            },
-            "education":{
-                "id":4,
-                "title":"Среднее специальное"
-            },
-            "experience":{
-                "id":2,
-                "title":"От 1 года"
-            },
-            "maritalstatus":{
-                "id":0,
-                "title":"Не имеет значения"
-            },
-            "children":{
-                "id":0,
-                "title":"Не имеет значения"
-            },
-            "client":{
-                "id":3935786,
-                "title":"ГБОУ ШКОЛА № 1391",
-                "link":"https://www.superjob.ru/clients/gbou-shkola-1391-3935786/vacancies.html",
-                "industry":[],
-                "description":"Образование.",
-                "vacancy_count":1,
-                "staff_count":"менее 50",
-                "client_logo":null,
-                "address":null,
-                "addresses":[],
-                "url":"https://schtn1391.mskobr.ru",
-                "short_reg":false,
-                "is_blocked":false,
-                "registered_date":1599808204,
-                "town":{
-                    "id":4,
-                    "title":"Москва",
-                    "declension":"в Москве",
-                    "hasMetro":true,
-                    "genitive":"Москвы"
-                }
-            },
-            "languages":[],
-            "driving_licence":[],
-            "catalogues":[
-                {
-                    "id":270,
-                    "title":"Наука, образование, повышение квалификации",
-                    "key":270,
-                    "positions":[
-                        {
-                            "id":280,
-                            "title":"Среднее образование",
-                            "key":280
-                        }
-                    ]
-                }
-            ],
-            "agency":{
-                "id":1,
-                "title":"прямой работодатель"
-            },
-            "town":{
-                "id":4,
-                "title":"Москва",
-                "declension":"в Москве",
-                "hasMetro":true,
-                "genitive":"Москвы"
-            },
-            "already_sent_on_vacancy":false,
-            "rejected":false,
-            "response_info":[],
-            "phone":"+7 (495) 12913XX доб. 133",
-            "phones":[
-                {
-                    "number":"749512913XX",
-                    "additionalNumber":133
-                }
-            ],
-            "fax":null,
-            "faxes":null,
-            "client_logo":null,
-            "highlight":false,
-            "age_from":0,
-            "age_to":0,
-            "gender":{
-                "id":0,
-                "title":"Не имеет значения"
-            },
-            "firm_name":"ГБОУ ШКОЛА № 1391",
-            "firm_activity":"Образование.",
-            "link":"https://www.superjob.ru/vakansii/uchitel-himii-i-biologii-46480570.html",
-            "latitude":55.51973,
-            "longitude":37.218342
-        },
-        {
-            "canEdit":false,
-            "is_closed":false,
             "id":46484195,
             "id_client":3269150,
             "payment_from":0,
@@ -5786,7 +5659,7 @@
                 "link":"https://www.superjob.ru/clients/gbou-shkola-222-3269150/vacancies.html",
                 "industry":[],
                 "description":"Школа.",
-                "vacancy_count":1,
+                "vacancy_count":0,
                 "staff_count":"менее 50",
                 "client_logo":null,
                 "address":null,
@@ -10415,6 +10288,139 @@
             "link":"https://www.superjob.ru/vakansii/uchitel-matematiki-24824071.html",
             "latitude":55.47401,
             "longitude":37.611034
+        },
+        {
+            "canEdit":false,
+            "is_closed":false,
+            "id":44281111,
+            "id_client":2302986,
+            "payment_from":85000,
+            "payment_to":0,
+            "date_pub_to":1687891412,
+            "date_archived":1675073402,
+            "date_published":1685904212,
+            "address":null,
+            "profession":"Учитель биологии",
+            "work":null,
+            "compensation":null,
+            "candidat":"Обязанности:\n• Преподавание биологии в 5-11 классах, подготовка к ОГЭ и ЕГЭ, олимпиадам, руководство проектной деятельностью\nТребования:\n• Знание ФГОС ООО, ФГОС СОО\n• Знание и владение различными методиками преподавания предмета, умение и желание работать с детьми\n• Высшее педагогическое образование, стаж работы в школе по специальности не менее 5 лет\n• Наличие высшей квалификационной категории желательно\n• Компьютерная грамотность, умение вести документацию в электронном виде\n• Опыт организации внеурочной деятельности, творческих мероприятий\n• Опыт подготовки к ОГЭ, ЕГЭ, Всероссийской олимпиаде школьников\n• Наличие свидетельства МЦКО о прохождении ознакомительного тренинга в формате ЕГЭ обязательно\nУсловия:\n• Оформление, отпуск, больничный и пр. по ТК РФ \n• Корпоративное обучение и тренинги\n• Возможность профессионального и карьерного роста",
+            "metro":[
+                {
+                    "id":101,
+                    "title":"Академическая",
+                    "id_metro_line":6
+                }
+            ],
+            "currency":"rub",
+            "vacancyRichText":"<b>Обязанности:</b><ul><li>Преподавание биологии в 5-11 классах, подготовка к ОГЭ и ЕГЭ, олимпиадам, руководство проектной деятельностью</li></ul><b>Требования:</b><ul><li>Знание ФГОС ООО, ФГОС СОО</li><li>Знание и владение различными методиками преподавания предмета, умение и желание работать с детьми</li><li>Высшее педагогическое образование, стаж работы в школе по специальности не менее 5 лет</li><li>Наличие высшей квалификационной категории желательно</li><li>Компьютерная грамотность, умение вести документацию в электронном виде</li><li>Опыт организации внеурочной деятельности, творческих мероприятий</li><li>Опыт подготовки к ОГЭ, ЕГЭ, Всероссийской олимпиаде школьников</li><li>Наличие свидетельства МЦКО о прохождении ознакомительного тренинга в формате ЕГЭ обязательно</li></ul><b>Условия:</b><ul><li>Оформление, отпуск, больничный и пр. по ТК РФ </li><li>Корпоративное обучение и тренинги</li><li>Возможность профессионального и карьерного роста</li></ul>",
+            "covid_vaccination_requirement":{
+                "id":2,
+                "title":"Требуется сертификат"
+            },
+            "moveable":true,
+            "agreement":false,
+            "anonymous":false,
+            "is_archive":false,
+            "is_storage":false,
+            "type_of_work":{
+                "id":6,
+                "title":"Полный рабочий день"
+            },
+            "place_of_work":{
+                "id":0,
+                "title":"Не имеет значения"
+            },
+            "education":{
+                "id":2,
+                "title":"Высшее"
+            },
+            "experience":{
+                "id":3,
+                "title":"От 3 лет"
+            },
+            "maritalstatus":{
+                "id":0,
+                "title":"Не имеет значения"
+            },
+            "children":{
+                "id":0,
+                "title":"Не имеет значения"
+            },
+            "client":{
+                "id":2302986,
+                "title":"Школа №45 имени Л. И. Мильграма",
+                "link":"https://www.superjob.ru/clients/shkola-45-imeni-l-i-milgrama-2302986/vacancies.html",
+                "industry":[],
+                "description":"Образовательная деятельность.",
+                "vacancy_count":1,
+                "staff_count":"500 — 1000",
+                "client_logo":null,
+                "address":null,
+                "addresses":[],
+                "url":"http://ms45.edu.ru",
+                "short_reg":false,
+                "is_blocked":false,
+                "registered_date":1378109866,
+                "town":{
+                    "id":4,
+                    "title":"Москва",
+                    "declension":"в Москве",
+                    "hasMetro":true,
+                    "genitive":"Москвы"
+                }
+            },
+            "languages":[],
+            "driving_licence":[],
+            "catalogues":[
+                {
+                    "id":270,
+                    "title":"Наука, образование, повышение квалификации",
+                    "key":270,
+                    "positions":[
+                        {
+                            "id":280,
+                            "title":"Среднее образование",
+                            "key":280
+                        }
+                    ]
+                }
+            ],
+            "agency":{
+                "id":1,
+                "title":"прямой работодатель"
+            },
+            "town":{
+                "id":4,
+                "title":"Москва",
+                "declension":"в Москве",
+                "hasMetro":true,
+                "genitive":"Москвы"
+            },
+            "already_sent_on_vacancy":false,
+            "rejected":false,
+            "response_info":[],
+            "phone":"+7 (915) 06455XX",
+            "phones":[
+                {
+                    "number":"791506455XX",
+                    "additionalNumber":null
+                }
+            ],
+            "fax":null,
+            "faxes":null,
+            "client_logo":null,
+            "highlight":false,
+            "age_from":0,
+            "age_to":0,
+            "gender":{
+                "id":0,
+                "title":"Не имеет значения"
+            },
+            "firm_name":"Школа №45 имени Л. И. Мильграма",
+            "firm_activity":"Образовательная деятельность.",
+            "link":"https://www.superjob.ru/vakansii/uchitel-biologii-44281111.html",
+            "latitude":null,
+            "longitude":null
         },
         {
             "canEdit":false,
