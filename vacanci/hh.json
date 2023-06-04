@@ -1,0 +1,4715 @@
+{
+    "items":[
+        {
+            "id":"81284734",
+            "premium":false,
+            "name":"Преподаватель робототехники",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-30T10:24:06+0300",
+            "created_at":"2023-05-30T10:24:06+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=81284734",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/81284734?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/81284734",
+            "relations":[],
+            "employer":{
+                "id":"236065",
+                "name":"Movavi",
+                "url":"https://api.hh.ru/employers/236065",
+                "alternate_url":"https://hh.ru/employer/236065",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/3434110.png",
+                    "90":"https://hhcdn.ru/employer-logo/3434109.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/748287.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=236065",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Техническое или педагогическое образование. Готовы рассмотреть начинающих специалистов. Опыт преподавательской или репетиторской деятельности. Опыт работы с детьми. Любовь к детям. ",
+                "responsibility":"Проведение уроков по направлениям: Разработка и написание учебных программ. Периодическое предоставление обратной связи по результатам обучения детей."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[
+                {
+                    "id":"only_saturday_and_sunday",
+                    "name":"Работа только по сб и вс"
+                }
+            ],
+            "working_time_intervals":[
+                {
+                    "id":"from_four_to_six_hours_in_a_day",
+                    "name":"Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"71297993",
+            "premium":false,
+            "name":"Учитель физики",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":null,
+                "to":40000,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"улица Фадеева",
+                "building":"87",
+                "lat":55.099361,
+                "lng":82.93456,
+                "description":null,
+                "raw":"Новосибирск, улица Фадеева, 87",
+                "metro":null,
+                "metro_stations":[],
+                "id":"7017092"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-22T04:41:23+0300",
+            "created_at":"2023-05-22T04:41:23+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=71297993",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/71297993?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/71297993",
+            "relations":[],
+            "employer":{
+                "id":"5770594",
+                "name":"ГАПОУ НСО Новосибирский Машиностроительный Колледж",
+                "url":"https://api.hh.ru/employers/5770594",
+                "alternate_url":"https://hh.ru/employer/5770594",
+                "logo_urls":null,
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=5770594",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Обеспечивает достижение и подтверждение обучающимися уровней образования. Требования: Высшее профессиональное образование или среднее профессиональное образование по направлению подготовки «Образование и...",
+                "responsibility":"Осуществляет обучение и воспитание обучающихся. Планирует и осуществляет учебный процесс в соответствии с образовательной программой образовательного учреждения. Организует самостоятельную деятельность..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"noExperience",
+                "name":"Нет опыта"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"76572815",
+            "premium":false,
+            "name":"Педагог-психолог начальной школы",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"Советский район, микрорайон Академгородок, Вяземская улица",
+                "building":"4",
+                "lat":54.86785,
+                "lng":83.102294,
+                "description":null,
+                "raw":"Новосибирск, Советский район, микрорайон Академгородок, Вяземская улица, 4",
+                "metro":null,
+                "metro_stations":[],
+                "id":"2866522"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-26T05:34:35+0300",
+            "created_at":"2023-05-26T05:34:35+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=76572815",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/76572815?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/76572815",
+            "relations":[],
+            "employer":{
+                "id":"4173455",
+                "name":"МАОУ ОЦ Горностай",
+                "url":"https://api.hh.ru/employers/4173455",
+                "alternate_url":"https://hh.ru/employer/4173455",
+                "logo_urls":null,
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=4173455",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Высшее профессиональное образование по направлению \"Педагогика и психология\". Уверенные знания диагностического и коррекционного материала, типов дизонтогенеза. Переподготовка по клинической психологии...",
+                "responsibility":"Индивидуальная диагностика ВПФ и эмоционального состояния детей начальной школы. Проведение коррекционных и развивающих занятий с детьми ОВЗ. Групповая диагностика в..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"76039945",
+            "premium":false,
+            "name":"Преподаватель-организатор ОБЖ",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"Советская улица",
+                "building":"63",
+                "lat":55.03449249267578,
+                "lng":82.91357421875,
+                "description":null,
+                "raw":"Новосибирск, Советская улица, 63",
+                "metro":{
+                    "station_name":"Красный проспект",
+                    "line_name":"Ленинская",
+                    "station_id":"52.296",
+                    "line_id":"52",
+                    "lat":55.040998,
+                    "lng":82.917447
+                },
+                "metro_stations":[
+                    {
+                        "station_name":"Красный проспект",
+                        "line_name":"Ленинская",
+                        "station_id":"52.296",
+                        "line_id":"52",
+                        "lat":55.040998,
+                        "lng":82.917447
+                    },
+                    {
+                        "station_name":"Площадь Гарина-Михайловского",
+                        "line_name":"Дзержинская",
+                        "station_id":"53.302",
+                        "line_id":"53",
+                        "lat":55.035947,
+                        "lng":82.897783
+                    },
+                    {
+                        "station_name":"Площадь Ленина",
+                        "line_name":"Ленинская",
+                        "station_id":"52.297",
+                        "line_id":"52",
+                        "lat":55.029941,
+                        "lng":82.92069
+                    },
+                    {
+                        "station_name":"Сибирская",
+                        "line_name":"Дзержинская",
+                        "station_id":"53.303",
+                        "line_id":"53",
+                        "lat":55.042163,
+                        "lng":82.919172
+                    }
+                ],
+                "id":"7260150"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-04T11:23:41+0300",
+            "created_at":"2023-06-04T11:23:41+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=76039945",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/76039945?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/76039945",
+            "relations":[],
+            "employer":{
+                "id":"2320834",
+                "name":"МАОУ Лицей №22 Надежда Сибири",
+                "url":"https://api.hh.ru/employers/2320834",
+                "alternate_url":"https://hh.ru/employer/2320834",
+                "logo_urls":null,
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=2320834",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"высшее профессиональное образование, опыт работы в должности преподавателя-организатора ОБЖ.",
+                "responsibility":"обучение основам безопасности жизнедеятельности. - организация допризывной подготовки учащихся и учета военнообязанных. - формирование у учащихся гражданской позиции."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"80255279",
+            "premium":false,
+            "name":"Онлайн-репетитор по химии (ЕГЭ, ОГЭ)",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":60000,
+                "to":100000,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-10T16:40:23+0300",
+            "created_at":"2023-05-10T16:40:23+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80255279",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80255279?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80255279",
+            "relations":[],
+            "employer":{
+                "id":"1122462",
+                "name":"Skyeng",
+                "url":"https://api.hh.ru/employers/1122462",
+                "alternate_url":"https://hh.ru/employer/1122462",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/3420386.png",
+                    "90":"https://hhcdn.ru/employer-logo/3420385.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/744856.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=1122462",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Опыт преподавания химии от 3 лет, в том числе опыт подготовки учеников к экзаменам (опыт подготовки к ЕГЭ будет преимуществом). ",
+                "responsibility":"Возможность преподавать с комфортом прямо из дома. Удобная платформа для занятий с готовыми учебными материалами, видеосвязью и автоматической проверкой заданий. "
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[
+                {
+                    "id":"from_four_to_six_hours_in_a_day",
+                    "name":"Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":true,
+            "experience":{
+                "id":"between3And6",
+                "name":"От 3 до 6 лет"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"71444633",
+            "premium":false,
+            "name":"Учитель географии",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":20000,
+                "to":40000,
+                "currency":"RUR",
+                "gross":true
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"Калининский район, микрорайон Юбилейный, улица Макаренко",
+                "building":"28",
+                "lat":55.098315,
+                "lng":82.963953,
+                "description":null,
+                "raw":"Новосибирск, Калининский район, микрорайон Юбилейный, улица Макаренко, 28",
+                "metro":null,
+                "metro_stations":[],
+                "id":"5867868"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-28T08:33:47+0300",
+            "created_at":"2023-05-28T08:33:47+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=71444633",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/71444633?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/71444633",
+            "relations":[],
+            "employer":{
+                "id":"5423467",
+                "name":"МБОУ СОШ № 78",
+                "url":"https://api.hh.ru/employers/5423467",
+                "alternate_url":"https://hh.ru/employer/5423467",
+                "logo_urls":null,
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=5423467",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Педагогическое образование. Стрессоустойчивость. Уверенный пользователь ПК. Креативное мышление. Готовность к непрерывному образованию. Эмпатия.",
+                "responsibility":null
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"noExperience",
+                "name":"Нет опыта"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"78432513",
+            "premium":false,
+            "name":"Преподаватель общего устройства грузовых автомобилей",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"Толмачёвская улица",
+                "building":"33/3к1",
+                "lat":54.966132,
+                "lng":82.810431,
+                "description":null,
+                "raw":"Новосибирск, Толмачёвская улица, 33/3к1",
+                "metro":null,
+                "metro_stations":[],
+                "id":"12671444"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-26T08:56:36+0300",
+            "created_at":"2023-05-26T08:56:36+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=78432513",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/78432513?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/78432513",
+            "relations":[],
+            "employer":{
+                "id":"9472442",
+                "name":"Азия Трак",
+                "url":"https://api.hh.ru/employers/9472442",
+                "alternate_url":"https://hh.ru/employer/9472442",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/5800442.jpeg",
+                    "90":"https://hhcdn.ru/employer-logo/5800441.jpeg",
+                    "original":"https://hhcdn.ru/employer-logo-original/1044946.jpg"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=9472442",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Образование высшее техническое (допустимо техническое средне-специальное). Хорошее знание технического устройства автомобиля (желательно грузового). Опыт преподавательской деятельности / проведения обучающих мероприятий...",
+                "responsibility":"Участие в ведении в должность новых технических специалистов (курсы по общему устройству автомобиля). Чтение поверхностных курсов для менеджеров по продажам..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"81451581",
+            "premium":false,
+            "name":"Преподаватель ЕГЭ по биологии",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":9000,
+                "to":50000,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"проспект Карла Маркса",
+                "building":"24",
+                "lat":54.989667,
+                "lng":82.908015,
+                "description":null,
+                "raw":"Новосибирск, проспект Карла Маркса, 24",
+                "metro":{
+                    "station_name":"Студенческая",
+                    "line_name":"Ленинская",
+                    "station_id":"52.300",
+                    "line_id":"52",
+                    "lat":54.989089,
+                    "lng":82.906631
+                },
+                "metro_stations":[
+                    {
+                        "station_name":"Студенческая",
+                        "line_name":"Ленинская",
+                        "station_id":"52.300",
+                        "line_id":"52",
+                        "lat":54.989089,
+                        "lng":82.906631
+                    }
+                ],
+                "id":"13051060"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-02T11:03:04+0300",
+            "created_at":"2023-06-02T11:03:04+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=81451581",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/81451581?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/81451581",
+            "relations":[],
+            "employer":{
+                "id":"5081631",
+                "name":"Юрлов Илья Андреевич",
+                "url":"https://api.hh.ru/employers/5081631",
+                "alternate_url":"https://hh.ru/employer/5081631",
+                "logo_urls":{
+                    "original":"https://hhcdn.ru/employer-logo-original/799546.png",
+                    "90":"https://hhcdn.ru/employer-logo/3639071.png",
+                    "240":"https://hhcdn.ru/employer-logo/3639072.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=5081631",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Опыт подготовки к ЕГЭ от 1 года. Отличное знание предмета и ответов на любой вопрос экзамена. Высокие баллы учеников.",
+                "responsibility":"Не нужно думать о поиске ученика и сведении расписания. Ставить оценки и отслеживать прогресс группы."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[
+                {
+                    "id":"only_saturday_and_sunday",
+                    "name":"Работа только по сб и вс"
+                }
+            ],
+            "working_time_intervals":[
+                {
+                    "id":"from_four_to_six_hours_in_a_day",
+                    "name":"Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"81270665",
+            "premium":false,
+            "name":"Преподаватель курса \"Проектирование цифровых устройств\" ВКИ",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"Советский район, микрорайон Правые Чёмы, Русская улица",
+                "building":"35",
+                "lat":54.846446,
+                "lng":83.051754,
+                "description":null,
+                "raw":"Новосибирск, Советский район, микрорайон Правые Чёмы, Русская улица, 35",
+                "metro":null,
+                "metro_stations":[],
+                "id":"5728436"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-30T05:35:40+0300",
+            "created_at":"2023-05-30T05:35:40+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=81270665",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/81270665?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/81270665",
+            "relations":[],
+            "employer":{
+                "id":"1144831",
+                "name":"Новосибирский государственный университет",
+                "url":"https://api.hh.ru/employers/1144831",
+                "alternate_url":"https://hh.ru/employer/1144831",
+                "logo_urls":{
+                    "original":"https://hhcdn.ru/employer-logo-original/394299.png",
+                    "90":"https://hhcdn.ru/employer-logo/2019450.png",
+                    "240":"https://hhcdn.ru/employer-logo/2019451.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=1144831",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Знать: Логические основы цифровой схемотехники: алгебра логики, логические функции. Навыки электромонтажных работ: пайка, соединение и прокладка кабелей, электрические измерения. ",
+                "responsibility":"Логические элементы цифровых устройств: транзисторы, транзисторно-транзисторная логика. Компараторы, счётчики, триггеры, ЦАП, АЦП и другие базовые элементы цифровых устройств. "
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"40",
+                    "name":"Другое"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"noExperience",
+                "name":"Нет опыта"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"79434032",
+            "premium":false,
+            "name":"Учитель технологии (мальчикки)",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":20000,
+                "to":30000,
+                "currency":"RUR",
+                "gross":true
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"Калининский район, микрорайон Юбилейный, улица Макаренко",
+                "building":"25/1",
+                "lat":55.101473,
+                "lng":82.968058,
+                "description":null,
+                "raw":"Новосибирск, Калининский район, микрорайон Юбилейный, улица Макаренко, 25/1",
+                "metro":null,
+                "metro_stations":[],
+                "id":"6195411"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-18T11:01:30+0300",
+            "created_at":"2023-05-18T11:01:30+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=79434032",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/79434032?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/79434032",
+            "relations":[],
+            "employer":{
+                "id":"2946828",
+                "name":"Муниципальное бюджетное общеобразовательное учреждение города Новосибирска Средняя общеобразовательная школа №184",
+                "url":"https://api.hh.ru/employers/2946828",
+                "alternate_url":"https://hh.ru/employer/2946828",
+                "logo_urls":null,
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=2946828",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Требования:Высшее профессиональное образование или среднее профессиональное образование в областях, соответствующих профилям обучения и дополнительное профессиональное образование по направлению подготовки...",
+                "responsibility":null
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"noExperience",
+                "name":"Нет опыта"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"81464713",
+            "premium":false,
+            "name":"Преподаватель информатики в Яндекс Учебник",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-02T13:51:09+0300",
+            "created_at":"2023-06-02T13:51:09+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=81464713",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/81464713?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/81464713",
+            "relations":[],
+            "employer":{
+                "id":"1740",
+                "name":"Яндекс",
+                "url":"https://api.hh.ru/employers/1740",
+                "alternate_url":"https://hh.ru/employer/1740",
+                "logo_urls":{
+                    "90":"https://hhcdn.ru/employer-logo/3790847.png",
+                    "240":"https://hhcdn.ru/employer-logo/3790848.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/837491.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=1740",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Доступно объяснять теорию, помогать в решении практических заданий.",
+                "responsibility":"Расписание занятий: Работали с детьми школьного возраста в группах, в идеале преподавали программирование и/или математику. Сможете вести один или..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"77367545",
+            "premium":false,
+            "name":"Репетитор по математике 5-9 классы (онлайн)",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":null,
+                "to":80000,
+                "currency":"RUR",
+                "gross":true
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-02T13:16:04+0300",
+            "created_at":"2023-06-02T13:16:04+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=77367545",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/77367545?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/77367545",
+            "relations":[],
+            "employer":{
+                "id":"3731347",
+                "name":"Онлайн-школа Тетрика",
+                "url":"https://api.hh.ru/employers/3731347",
+                "alternate_url":"https://hh.ru/employer/3731347",
+                "logo_urls":{
+                    "original":"https://hhcdn.ru/employer-logo-original/785147.jpg",
+                    "240":"https://hhcdn.ru/employer-logo/3581480.jpeg",
+                    "90":"https://hhcdn.ru/employer-logo/3581479.jpeg"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=3731347",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Образование педагогическое или профильное. Опыт преподавания или репетиторства от полугода. Опыт подготовки к ОГЭ (если планируете готовить учеников к сдаче...",
+                "responsibility":"Тетрика — онлайн-школа, которая помогает подготовиться к учёбе дошкольникам, школьникам подтянуть оценки и сдать экзамены, а взрослым — выучить иностранный язык. "
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[
+                {
+                    "id":"only_saturday_and_sunday",
+                    "name":"Работа только по сб и вс"
+                }
+            ],
+            "working_time_intervals":[
+                {
+                    "id":"from_four_to_six_hours_in_a_day",
+                    "name":"Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"81358924",
+            "premium":false,
+            "name":"Старший преподаватель кафедры \"Архитектура и дизайн\" в г. Севастополь",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":39160,
+                "to":null,
+                "currency":"RUR",
+                "gross":true
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Севастополь",
+                "street":"улица Курчатова",
+                "building":"7",
+                "lat":44.62327,
+                "lng":33.567527,
+                "description":null,
+                "raw":"Севастополь, улица Курчатова, 7",
+                "metro":null,
+                "metro_stations":[],
+                "id":"7385859"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-31T13:04:38+0300",
+            "created_at":"2023-05-31T13:04:38+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=81358924",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/81358924?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/81358924",
+            "relations":[],
+            "employer":{
+                "id":"1941662",
+                "name":"ФГАОУ ВО Севастопольский государственный университет",
+                "url":"https://api.hh.ru/employers/1941662",
+                "alternate_url":"https://hh.ru/employer/1941662",
+                "logo_urls":{
+                    "original":"https://hhcdn.ru/employer-logo-original/1084483.png",
+                    "240":"https://hhcdn.ru/employer-logo/5958562.png",
+                    "90":"https://hhcdn.ru/employer-logo/5958561.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=1941662",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Обязательно: высшее образование, наличие ученой степени (кандидат архитектуры, ВО по профилю кафедры, квалификация Архитектор). Опыт работы не менее 3 лет...",
+                "responsibility":"Осуществлять планирование, организацию и контроль учебной и учебно-методической работы по курируемой дисциплине или дисциплинам по направлению подготовки 07.03..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"14",
+                    "name":"Архитектор"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between3And6",
+                "name":"От 3 до 6 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"80604899",
+            "premium":false,
+            "name":"Преподаватель математики",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-04T15:38:15+0300",
+            "created_at":"2023-06-04T15:38:15+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80604899",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80604899?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80604899",
+            "relations":[],
+            "employer":{
+                "id":"1159470",
+                "name":"MAXIMUM EDUCATION",
+                "url":"https://api.hh.ru/employers/1159470",
+                "alternate_url":"https://hh.ru/employer/1159470",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/5488953.png",
+                    "90":"https://hhcdn.ru/employer-logo/5488952.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/967459.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=1159470",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Студент, выпускник или аспирант ведущего вуза. — Высокий уровень знаний предмета. — Открытость к общению и работе с людьми. — Желание обучаться новому. — ",
+                "responsibility":"Возможность выбирать классы для работы (преподавание в 8-11 классах)."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"noExperience",
+                "name":"Нет опыта"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"71465560",
+            "premium":false,
+            "name":"Учитель английского языка",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":25000,
+                "to":50000,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"улица Виктора Шевелёва",
+                "building":"3",
+                "lat":54.941632,
+                "lng":82.954637,
+                "description":null,
+                "raw":"Новосибирск, улица Виктора Шевелёва, 3",
+                "metro":null,
+                "metro_stations":[],
+                "id":"11259697"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-04T09:36:03+0300",
+            "created_at":"2023-06-04T09:36:03+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=71465560",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/71465560?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/71465560",
+            "relations":[],
+            "employer":{
+                "id":"4600512",
+                "name":"МАОУ СОШ №217",
+                "url":"https://api.hh.ru/employers/4600512",
+                "alternate_url":"https://hh.ru/employer/4600512",
+                "logo_urls":null,
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=4600512",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"2.2.1. Педагогическая деятельность по реализации программ среднего общего образования. Требования: ​​​​​желательно иметь квалификационную категорию.",
+                "responsibility":"2.1. Педагогическая деятельность по проектированию и реализации образовательного процесса в средних и старших классах общеобразовательного учреждения: 2.1.1. "
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"78158077",
+            "premium":false,
+            "name":"Преподаватель «Пожарно-строевой подготовки»",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":25000,
+                "to":35000,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"Приморская улица",
+                "building":"43",
+                "lat":54.868005,
+                "lng":82.989708,
+                "description":null,
+                "raw":"Новосибирск, Приморская улица, 43",
+                "metro":null,
+                "metro_stations":[],
+                "id":"4088414"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-31T04:19:42+0300",
+            "created_at":"2023-05-31T04:19:42+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=78158077",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/78158077?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/78158077",
+            "relations":[],
+            "employer":{
+                "id":"3051760",
+                "name":"ФАУ ДПО Учебный центр ФПС по Новосибирской области",
+                "url":"https://api.hh.ru/employers/3051760",
+                "alternate_url":"https://hh.ru/employer/3051760",
+                "logo_urls":null,
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=3051760",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Высшее профессиональное образование или среднее профессиональное образование по направлению подготовки \"Образование и педагогика\" или в области, соответствующей преподаваемому предмету, без...",
+                "responsibility":"Выполнение всех видов учебно-методической работы и обеспечение в полном объеме выполнения учебных планов и программ. - Разработка план – конспектов, методических..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"79070010",
+            "premium":false,
+            "name":"Учитель химии-биологии",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":35000,
+                "to":null,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"улица Тургенева",
+                "building":"202",
+                "lat":55.012687,
+                "lng":82.966765,
+                "description":null,
+                "raw":"Новосибирск, улица Тургенева, 202",
+                "metro":{
+                    "station_name":"Октябрьская",
+                    "line_name":"Ленинская",
+                    "station_id":"52.298",
+                    "line_id":"52",
+                    "lat":55.018789,
+                    "lng":82.939007
+                },
+                "metro_stations":[
+                    {
+                        "station_name":"Октябрьская",
+                        "line_name":"Ленинская",
+                        "station_id":"52.298",
+                        "line_id":"52",
+                        "lat":55.018789,
+                        "lng":82.939007
+                    }
+                ],
+                "id":"12634230"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-04T08:36:30+0300",
+            "created_at":"2023-06-04T08:36:30+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=79070010",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/79070010?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/79070010",
+            "relations":[],
+            "employer":{
+                "id":"9446337",
+                "name":"МБОУ СОШ №75",
+                "url":"https://api.hh.ru/employers/9446337",
+                "alternate_url":"https://hh.ru/employer/9446337",
+                "logo_urls":null,
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=9446337",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Высшее профессиональное образование или среднее профессиональное образование по направлению подготовки «Образование и педагогика» или в области, соответствующей преподаваемому предмету. ",
+                "responsibility":"Современные образовательные технологии, включая информационные, а также цифровые образовательные ресурсы. Обоснованно выбирает программы и учебно-методическое обеспечение, включая цифровые образовательные..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between3And6",
+                "name":"От 3 до 6 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"81007066",
+            "premium":false,
+            "name":"Преподаватель робототехники",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-25T09:54:02+0300",
+            "created_at":"2023-05-25T09:54:02+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=81007066",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/81007066?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/81007066",
+            "relations":[],
+            "employer":{
+                "id":"236065",
+                "name":"Movavi",
+                "url":"https://api.hh.ru/employers/236065",
+                "alternate_url":"https://hh.ru/employer/236065",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/3434110.png",
+                    "90":"https://hhcdn.ru/employer-logo/3434109.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/748287.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=236065",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Техническое или педагогическое образование. Готовы рассмотреть начинающих специалистов. Опыт преподавательской или репетиторской деятельности. Опыт работы с детьми. Любовь к детям. ",
+                "responsibility":"Проведение уроков по направлениям: Разработка и написание учебных программ. Периодическое предоставление обратной связи по результатам обучения детей."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"80527005",
+            "premium":false,
+            "name":"Преподаватель спецкурсов английского (IT, финансы, маркетинг, медицина, подготовка к экзаменам)",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":null,
+                "to":100000,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-16T17:42:38+0300",
+            "created_at":"2023-05-16T17:42:38+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80527005",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80527005?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80527005",
+            "relations":[],
+            "employer":{
+                "id":"1122462",
+                "name":"Skyeng",
+                "url":"https://api.hh.ru/employers/1122462",
+                "alternate_url":"https://hh.ru/employer/1122462",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/3420386.png",
+                    "90":"https://hhcdn.ru/employer-logo/3420385.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/744856.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=1122462",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Высшее образование желательно по направлениям: педагогика, лингвистика, английская филология. Знание английского языка от Upper-Intermediate, желательно Advanced. Опыт преподавания от...",
+                "responsibility":"Преподавание английского языка онлайн на образовательной платформе. Условия. Минимальная подготовка к уроку: автоматическая проверка домашних заданий и база готовых методических..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[
+                {
+                    "id":"from_four_to_six_hours_in_a_day",
+                    "name":"Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":true,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"79153478",
+            "premium":false,
+            "name":"Учитель физики",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":20000,
+                "to":50000,
+                "currency":"RUR",
+                "gross":true
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"Калининский район, микрорайон Юбилейный, улица Макаренко",
+                "building":"28",
+                "lat":55.098315,
+                "lng":82.963953,
+                "description":null,
+                "raw":"Новосибирск, Калининский район, микрорайон Юбилейный, улица Макаренко, 28",
+                "metro":null,
+                "metro_stations":[],
+                "id":"5867868"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-11T12:24:59+0300",
+            "created_at":"2023-05-11T12:24:59+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=79153478",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/79153478?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/79153478",
+            "relations":[],
+            "employer":{
+                "id":"5423467",
+                "name":"МБОУ СОШ № 78",
+                "url":"https://api.hh.ru/employers/5423467",
+                "alternate_url":"https://hh.ru/employer/5423467",
+                "logo_urls":null,
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=5423467",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Педагогическое образование. Стрессоустойчивость. Уверенный пользователь ПК. Креативное мышление. Готовность к непрерывному образованию. Эмпатия.",
+                "responsibility":null
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"noExperience",
+                "name":"Нет опыта"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"80526051",
+            "premium":false,
+            "name":"Преподаватель программирования для детей (Python, Scratch, Unity, Minecraft, Roblox)",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":null,
+                "to":100000,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-16T17:26:46+0300",
+            "created_at":"2023-05-16T17:26:46+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80526051",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80526051?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80526051",
+            "relations":[],
+            "employer":{
+                "id":"1122462",
+                "name":"Skyeng",
+                "url":"https://api.hh.ru/employers/1122462",
+                "alternate_url":"https://hh.ru/employer/1122462",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/3420386.png",
+                    "90":"https://hhcdn.ru/employer-logo/3420385.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/744856.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=1122462",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Опыт преподавания детям и опыт преподавания программирования. Желательно профильное образование: высшее или в процессе получения. Наличие ноутбука или ПК и...",
+                "responsibility":"Возможность преподавать с комфортом прямо из дома. Удобная платформа для занятий с готовыми учебными материалами, видеосвязью и автоматической проверкой заданий. "
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[
+                {
+                    "id":"from_four_to_six_hours_in_a_day",
+                    "name":"Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"96",
+                    "name":"Программист, разработчик"
+                }
+            ],
+            "accept_incomplete_resumes":true,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"71683898",
+            "premium":false,
+            "name":"Учитель физики",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"Советская улица",
+                "building":"63",
+                "lat":55.03449249267578,
+                "lng":82.91357421875,
+                "description":null,
+                "raw":"Новосибирск, Советская улица, 63",
+                "metro":{
+                    "station_name":"Красный проспект",
+                    "line_name":"Ленинская",
+                    "station_id":"52.296",
+                    "line_id":"52",
+                    "lat":55.040998,
+                    "lng":82.917447
+                },
+                "metro_stations":[
+                    {
+                        "station_name":"Красный проспект",
+                        "line_name":"Ленинская",
+                        "station_id":"52.296",
+                        "line_id":"52",
+                        "lat":55.040998,
+                        "lng":82.917447
+                    },
+                    {
+                        "station_name":"Площадь Гарина-Михайловского",
+                        "line_name":"Дзержинская",
+                        "station_id":"53.302",
+                        "line_id":"53",
+                        "lat":55.035947,
+                        "lng":82.897783
+                    },
+                    {
+                        "station_name":"Площадь Ленина",
+                        "line_name":"Ленинская",
+                        "station_id":"52.297",
+                        "line_id":"52",
+                        "lat":55.029941,
+                        "lng":82.92069
+                    },
+                    {
+                        "station_name":"Сибирская",
+                        "line_name":"Дзержинская",
+                        "station_id":"53.303",
+                        "line_id":"53",
+                        "lat":55.042163,
+                        "lng":82.919172
+                    }
+                ],
+                "id":"7260150"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-04T11:23:59+0300",
+            "created_at":"2023-06-04T11:23:59+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=71683898",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/71683898?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/71683898",
+            "relations":[],
+            "employer":{
+                "id":"2320834",
+                "name":"МАОУ Лицей №22 Надежда Сибири",
+                "url":"https://api.hh.ru/employers/2320834",
+                "alternate_url":"https://hh.ru/employer/2320834",
+                "logo_urls":null,
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=2320834",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Высшее профессиональное образование, наличие квалификационной категории и опыт работы в должности учителя физики.",
+                "responsibility":"Ведение уроков,организация внеурочной деятельности. Подготовка к итоговой аттестации, НПК, ВОШ, Worldskills, НТО. Организация проектной деятельности. Методическая работа. Классное руководство."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between3And6",
+                "name":"От 3 до 6 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"80316275",
+            "premium":false,
+            "name":"Учитель математики (по удаленной подготовке к ЕГЭ, ОГЭ, олимпиадам)",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":null,
+                "to":100000,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-11T16:32:02+0300",
+            "created_at":"2023-05-11T16:32:02+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80316275",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80316275?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80316275",
+            "relations":[],
+            "employer":{
+                "id":"1122462",
+                "name":"Skyeng",
+                "url":"https://api.hh.ru/employers/1122462",
+                "alternate_url":"https://hh.ru/employer/1122462",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/3420386.png",
+                    "90":"https://hhcdn.ru/employer-logo/3420385.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/744856.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=1122462",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Опыт преподавания математики от 1 года. Опыт подготовки учеников к ЕГЭ будет преимуществом. Желательно профильное образование: высшее оконченное или в...",
+                "responsibility":"Возможность преподавать с комфортом прямо из дома. Удобная платформа для занятий с готовыми учебными материалами, видеосвязью и автоматической проверкой заданий. "
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[
+                {
+                    "id":"from_four_to_six_hours_in_a_day",
+                    "name":"Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":true,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"80468397",
+            "premium":false,
+            "name":"Учитель математики и информатики",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"Нижегородская улица",
+                "building":"6",
+                "lat":55.015738,
+                "lng":82.935961,
+                "description":null,
+                "raw":"Новосибирск, Нижегородская улица, 6",
+                "metro":{
+                    "station_name":"Октябрьская",
+                    "line_name":"Ленинская",
+                    "station_id":"52.298",
+                    "line_id":"52",
+                    "lat":55.018789,
+                    "lng":82.939007
+                },
+                "metro_stations":[
+                    {
+                        "station_name":"Октябрьская",
+                        "line_name":"Ленинская",
+                        "station_id":"52.298",
+                        "line_id":"52",
+                        "lat":55.018789,
+                        "lng":82.939007
+                    }
+                ],
+                "id":"4855533"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-16T06:29:25+0300",
+            "created_at":"2023-05-16T06:29:25+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80468397",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80468397?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80468397",
+            "relations":[],
+            "employer":{
+                "id":"3102667",
+                "name":"Сибирский институт управления – филиал РАНХиГС при Президенте РФ",
+                "url":"https://api.hh.ru/employers/3102667",
+                "alternate_url":"https://hh.ru/employer/3102667",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/6044130.png",
+                    "90":"https://hhcdn.ru/employer-logo/6044129.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/1105881.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=3102667",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Высшее образование по направлению подготовки «Образование и педагогика» или в области, соответствующей преподаваемому предмету, без предъявления требований к стажу работы...",
+                "responsibility":"Возможность разработки и внедрения в учебный процесс авторской методики преподавания. Проектная, творческая деятельность с обучающимися. Возможность развития собственного научного потенциала..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"noExperience",
+                "name":"Нет опыта"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"72272447",
+            "premium":false,
+            "name":"Учитель математики",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"Советский район, микрорайон Академгородок, Вяземская улица",
+                "building":"4",
+                "lat":54.86785,
+                "lng":83.102294,
+                "description":null,
+                "raw":"Новосибирск, Советский район, микрорайон Академгородок, Вяземская улица, 4",
+                "metro":null,
+                "metro_stations":[],
+                "id":"2866522"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-03T05:35:47+0300",
+            "created_at":"2023-06-03T05:35:47+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=72272447",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/72272447?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/72272447",
+            "relations":[],
+            "employer":{
+                "id":"4173455",
+                "name":"МАОУ ОЦ Горностай",
+                "url":"https://api.hh.ru/employers/4173455",
+                "alternate_url":"https://hh.ru/employer/4173455",
+                "logo_urls":null,
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=4173455",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Высшее педагогическое образование. Желательно опыт работы.",
+                "responsibility":"Обучает и воспитывает обучающихся с учетом специфики преподаваемого предмета и возраста обучающихся, содержания федерального государственного образовательного стандарта (ФГОС), либо федерального..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"noExperience",
+                "name":"Нет опыта"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"80332453",
+            "premium":false,
+            "name":"Преподаватель информатики",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-31T09:51:31+0300",
+            "created_at":"2023-05-31T09:51:31+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80332453",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80332453?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80332453",
+            "relations":[],
+            "employer":{
+                "id":"236065",
+                "name":"Movavi",
+                "url":"https://api.hh.ru/employers/236065",
+                "alternate_url":"https://hh.ru/employer/236065",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/3434110.png",
+                    "90":"https://hhcdn.ru/employer-logo/3434109.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/748287.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=236065",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Иметь высшее образование/диплом о профессиональной переподготовке по направлению \"преподаватель информатики\". Иметь опыт преподавания информатики. Уметь преподавать группе из 10...",
+                "responsibility":"Преподавание информатики для 5–11 классов ВТ (частичная занятость). Подготовка учеников к ОГЭ и ЕГЭ по информатике. Разработка и написание..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"75606109",
+            "premium":false,
+            "name":"Учитель начальных классов",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":40000,
+                "to":null,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"улица Гоголя",
+                "building":"195",
+                "lat":55.047935,
+                "lng":82.963612,
+                "description":null,
+                "raw":"Новосибирск, улица Гоголя, 195",
+                "metro":null,
+                "metro_stations":[],
+                "id":"3821394"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-31T06:53:49+0300",
+            "created_at":"2023-05-31T06:53:49+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=75606109",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/75606109?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/75606109",
+            "relations":[],
+            "employer":{
+                "id":"4652569",
+                "name":"Муниципальное автономное общеобразовательное учреждение города Новосибирска Центр образования № 82 Развитие",
+                "url":"https://api.hh.ru/employers/4652569",
+                "alternate_url":"https://hh.ru/employer/4652569",
+                "logo_urls":null,
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=4652569",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Требования: Цифровая грамотность. Проектная деятельность. Работа на результат. Наличие высшей квалификационной категории.",
+                "responsibility":"Планирует и осуществляет учебный процесс в соответствии с. Образовательной программой общеобразовательного учреждения. Разрабатывает рабочие программы в соответствии с требованиями обновленного..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between3And6",
+                "name":"От 3 до 6 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"80604949",
+            "premium":false,
+            "name":"Преподаватель русского языка",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-04T15:38:45+0300",
+            "created_at":"2023-06-04T15:38:45+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80604949",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80604949?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80604949",
+            "relations":[],
+            "employer":{
+                "id":"1159470",
+                "name":"MAXIMUM EDUCATION",
+                "url":"https://api.hh.ru/employers/1159470",
+                "alternate_url":"https://hh.ru/employer/1159470",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/5488953.png",
+                    "90":"https://hhcdn.ru/employer-logo/5488952.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/967459.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=1159470",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Студенты, аспиранты и выпускники ведущих университетов. Желание учиться и постоянно развиваться в индустрии образования. Стремление вести за собой учеников и...",
+                "responsibility":"Преподавать предмет по материалам, разработанным нашим исследовательским отделом. Работать в удобной онлайн-системе. Проверять работы и оценивать результаты учеников."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"noExperience",
+                "name":"Нет опыта"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"80527555",
+            "premium":false,
+            "name":"Учитель химии (удаленно по подготовке к ЕГЭ, ОГЭ)",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":null,
+                "to":100000,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-16T17:54:00+0300",
+            "created_at":"2023-05-16T17:54:00+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80527555",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80527555?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80527555",
+            "relations":[],
+            "employer":{
+                "id":"1122462",
+                "name":"Skyeng",
+                "url":"https://api.hh.ru/employers/1122462",
+                "alternate_url":"https://hh.ru/employer/1122462",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/3420386.png",
+                    "90":"https://hhcdn.ru/employer-logo/3420385.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/744856.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=1122462",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Опыт преподавания химии от 3 лет, в том числе опыт подготовки учеников к экзаменам (опыт подготовки к ЕГЭ будет преимуществом). ",
+                "responsibility":"Возможность преподавать с комфортом прямо из дома. Удобная платформа для занятий с готовыми учебными материалами, видеосвязью и автоматической проверкой заданий. "
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[
+                {
+                    "id":"from_four_to_six_hours_in_a_day",
+                    "name":"Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":true,
+            "experience":{
+                "id":"between3And6",
+                "name":"От 3 до 6 лет"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"78042452",
+            "premium":false,
+            "name":"Преподаватель КонсультантПлюс",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":33000,
+                "to":null,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"Депутатская улица",
+                "building":"46",
+                "lat":55.028888,
+                "lng":82.926484,
+                "description":null,
+                "raw":"Новосибирск, Депутатская улица, 46",
+                "metro":null,
+                "metro_stations":[],
+                "id":"4642412"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-03T04:35:42+0300",
+            "created_at":"2023-06-03T04:35:42+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=78042452",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/78042452?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/78042452",
+            "relations":[],
+            "employer":{
+                "id":"624383",
+                "name":"Альвента",
+                "url":"https://api.hh.ru/employers/624383",
+                "alternate_url":"https://hh.ru/employer/624383",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/3598268.jpeg",
+                    "90":"https://hhcdn.ru/employer-logo/3598267.jpeg",
+                    "original":"https://hhcdn.ru/employer-logo-original/789344.jpg"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=624383",
+                "accredited_it_employer":true,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Активная жизненная позиция. Доброжелательность, грамотная речь. Высшее образование, желательно педагогика, психология.",
+                "responsibility":"Проведение онлайн мастер-классов (примерно 90% мастер-классов проходят в режиме онлайн). Проведение очных мастер-классов (на территории клиента), таких..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"76713405",
+            "premium":false,
+            "name":"Преподаватель-методист курса по телекоммуникационному оборудованию",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"город Новосибирск",
+                "street":"Окружная улица",
+                "building":"29в",
+                "lat":55.083601,
+                "lng":82.938396,
+                "description":null,
+                "raw":"город Новосибирск, Окружная улица, 29в",
+                "metro":{
+                    "station_name":"Заельцовская",
+                    "line_name":"Ленинская",
+                    "station_id":"52.294",
+                    "line_id":"52",
+                    "lat":55.059291,
+                    "lng":82.912569
+                },
+                "metro_stations":[
+                    {
+                        "station_name":"Заельцовская",
+                        "line_name":"Ленинская",
+                        "station_id":"52.294",
+                        "line_id":"52",
+                        "lat":55.059291,
+                        "lng":82.912569
+                    }
+                ],
+                "id":"202137"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-02T10:32:00+0300",
+            "created_at":"2023-06-02T10:32:00+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=76713405",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/76713405?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/76713405",
+            "relations":[],
+            "employer":{
+                "id":"828199",
+                "name":"«Предприятие «ЭЛТЕКС»",
+                "url":"https://api.hh.ru/employers/828199",
+                "alternate_url":"https://hh.ru/employer/828199",
+                "logo_urls":{
+                    "original":"https://hhcdn.ru/employer-logo-original/670127.png",
+                    "240":"https://hhcdn.ru/employer-logo/3121641.png",
+                    "90":"https://hhcdn.ru/employer-logo/3121640.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=828199",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Знание сетей на уровне сертификатов CCNA, CCNP / HCIA, HCIP и пр. аналогов от других вендоров. Умение и опыт составления, оформления...",
+                "responsibility":"Организация учебно-производственной деятельности обучающихся по освоению программ повышения квалификации (коммутация, маршрутизация и др.). Разработка и обновление учебно-методического обеспечения..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"80475660",
+            "premium":false,
+            "name":"Социальный педагог",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":25000,
+                "to":null,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"улица Фадеева",
+                "building":"87",
+                "lat":55.099361,
+                "lng":82.93456,
+                "description":null,
+                "raw":"Новосибирск, улица Фадеева, 87",
+                "metro":null,
+                "metro_stations":[],
+                "id":"7017092"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-22T04:40:37+0300",
+            "created_at":"2023-05-22T04:40:37+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80475660",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80475660?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80475660",
+            "relations":[],
+            "employer":{
+                "id":"5770594",
+                "name":"ГАПОУ НСО Новосибирский Машиностроительный Колледж",
+                "url":"https://api.hh.ru/employers/5770594",
+                "alternate_url":"https://hh.ru/employer/5770594",
+                "logo_urls":null,
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=5770594",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Высшее образование или среднее профессиональное образование в рамках укрупненных групп направлений подготовки высшего образования и специальностей среднего профессионального образования \"Образование...",
+                "responsibility":"Планирование и организация работы со студентами, а также отдельными категориями (дети-сироты и оставшиеся без попечения родителей, дети-инвалиды и..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"80255959",
+            "premium":false,
+            "name":"Преподаватель информатики (онлайн-подготовка к ЕГЭ)",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":null,
+                "to":100000,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-10T16:49:31+0300",
+            "created_at":"2023-05-10T16:49:31+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80255959",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80255959?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80255959",
+            "relations":[],
+            "employer":{
+                "id":"1122462",
+                "name":"Skyeng",
+                "url":"https://api.hh.ru/employers/1122462",
+                "alternate_url":"https://hh.ru/employer/1122462",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/3420386.png",
+                    "90":"https://hhcdn.ru/employer-logo/3420385.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/744856.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=1122462",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Опыт преподавания информатики или программирования детям от 1 года. Опыт подготовки учеников к ЕГЭ будет преимуществом для преподавания в направлении...",
+                "responsibility":"Возможность преподавать с комфортом прямо из дома. Удобная платформа для занятий с готовыми учебными материалами, видеосвязью и автоматической проверкой заданий. "
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[
+                {
+                    "id":"from_four_to_six_hours_in_a_day",
+                    "name":"Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":true,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"80127734",
+            "premium":false,
+            "name":"Преподаватель специальных дисциплин (аддитивные технологии)",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":30000,
+                "to":null,
+                "currency":"RUR",
+                "gross":true
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"улица Фадеева",
+                "building":"87",
+                "lat":55.099361,
+                "lng":82.93456,
+                "description":null,
+                "raw":"Новосибирск, улица Фадеева, 87",
+                "metro":null,
+                "metro_stations":[],
+                "id":"7017092"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-22T04:41:23+0300",
+            "created_at":"2023-05-22T04:41:23+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80127734",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80127734?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80127734",
+            "relations":[],
+            "employer":{
+                "id":"5770594",
+                "name":"ГАПОУ НСО Новосибирский Машиностроительный Колледж",
+                "url":"https://api.hh.ru/employers/5770594",
+                "alternate_url":"https://hh.ru/employer/5770594",
+                "logo_urls":null,
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=5770594",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Высшее профессиональное образование или среднее профессиональное образование по направлению подготовки \"Образование и педагогика\" или в области, соответствующей преподаваемому предмету, без...",
+                "responsibility":"Проводит обучение обучающихся в соответствии с требованиями ФГОС. Оценивает эффективность обучения предмету (дисциплине, курсу) обучающихся. Осуществляет контрольно-оценочную деятельность в..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"noExperience",
+                "name":"Нет опыта"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"80243225",
+            "premium":false,
+            "name":"Преподаватель английского языка (удаленно)",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":null,
+                "to":100000,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-10T14:24:54+0300",
+            "created_at":"2023-05-10T14:24:54+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80243225",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80243225?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80243225",
+            "relations":[],
+            "employer":{
+                "id":"1122462",
+                "name":"Skyeng",
+                "url":"https://api.hh.ru/employers/1122462",
+                "alternate_url":"https://hh.ru/employer/1122462",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/3420386.png",
+                    "90":"https://hhcdn.ru/employer-logo/3420385.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/744856.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=1122462",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Высшее образование по профильным направлениям: педагогика, лингвистика, английская филология. Знание английского языка от Advanced. Опыт преподавания от 3 лет и...",
+                "responsibility":null
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[
+                {
+                    "id":"from_four_to_six_hours_in_a_day",
+                    "name":"Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":true,
+            "experience":{
+                "id":"between3And6",
+                "name":"От 3 до 6 лет"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"80605078",
+            "premium":false,
+            "name":"Преподаватель информатики",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-17T15:40:34+0300",
+            "created_at":"2023-05-17T15:40:34+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80605078",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80605078?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80605078",
+            "relations":[],
+            "employer":{
+                "id":"1159470",
+                "name":"MAXIMUM EDUCATION",
+                "url":"https://api.hh.ru/employers/1159470",
+                "alternate_url":"https://hh.ru/employer/1159470",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/5488953.png",
+                    "90":"https://hhcdn.ru/employer-logo/5488952.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/967459.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=1159470",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"том числе Студент, выпускник или аспирант ведущего вуза. — Высокий уровень знаний предмета. — Открытость к общению и работе с людьми. — ",
+                "responsibility":null
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"noExperience",
+                "name":"Нет опыта"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"80298331",
+            "premium":false,
+            "name":"Преподаватель в школу программирования",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":40000,
+                "to":50000,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-04T12:51:11+0300",
+            "created_at":"2023-06-04T12:51:11+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80298331",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80298331?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80298331",
+            "relations":[],
+            "employer":{
+                "id":"985552",
+                "name":"Школа программирования JETCODE",
+                "url":"https://api.hh.ru/employers/985552",
+                "alternate_url":"https://hh.ru/employer/985552",
+                "logo_urls":{
+                    "90":"https://hhcdn.ru/employer-logo/6009033.png",
+                    "240":"https://hhcdn.ru/employer-logo/6009034.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/1097104.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=985552",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Знаете один или несколько языков программирования и имеете практический опыт программирования (так же рассматриваются студенты последних курсов технических ВУЗов). ",
+                "responsibility":"Проводить занятия для детей от 6 до 17 лет (занятия оффлайн, группы из 6-8 человек, делятся по возрасту). "
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[
+                {
+                    "id":"only_saturday_and_sunday",
+                    "name":"Работа только по сб и вс"
+                }
+            ],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"54232544",
+            "premium":false,
+            "name":"Преподаватель дополнительного образования по направлению \"Системное администрирование\" в IT-куб",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"Советская улица",
+                "building":"63",
+                "lat":55.03449249267578,
+                "lng":82.91357421875,
+                "description":null,
+                "raw":"Новосибирск, Советская улица, 63",
+                "metro":{
+                    "station_name":"Красный проспект",
+                    "line_name":"Ленинская",
+                    "station_id":"52.296",
+                    "line_id":"52",
+                    "lat":55.040998,
+                    "lng":82.917447
+                },
+                "metro_stations":[
+                    {
+                        "station_name":"Красный проспект",
+                        "line_name":"Ленинская",
+                        "station_id":"52.296",
+                        "line_id":"52",
+                        "lat":55.040998,
+                        "lng":82.917447
+                    },
+                    {
+                        "station_name":"Площадь Гарина-Михайловского",
+                        "line_name":"Дзержинская",
+                        "station_id":"53.302",
+                        "line_id":"53",
+                        "lat":55.035947,
+                        "lng":82.897783
+                    },
+                    {
+                        "station_name":"Площадь Ленина",
+                        "line_name":"Ленинская",
+                        "station_id":"52.297",
+                        "line_id":"52",
+                        "lat":55.029941,
+                        "lng":82.92069
+                    },
+                    {
+                        "station_name":"Сибирская",
+                        "line_name":"Дзержинская",
+                        "station_id":"53.303",
+                        "line_id":"53",
+                        "lat":55.042163,
+                        "lng":82.919172
+                    }
+                ],
+                "id":"7260150"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-04T11:24:20+0300",
+            "created_at":"2023-06-04T11:24:20+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=54232544",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/54232544?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/54232544",
+            "relations":[],
+            "employer":{
+                "id":"2320834",
+                "name":"МАОУ Лицей №22 Надежда Сибири",
+                "url":"https://api.hh.ru/employers/2320834",
+                "alternate_url":"https://hh.ru/employer/2320834",
+                "logo_urls":null,
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=2320834",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Знание сетевых протоколов передачи данных, опыт администрирования ОС Windows, Linux, знание основ виртуализации и защиты компьютерных сетей. Высшее или средне...",
+                "responsibility":"Олимпиада КД НТИ. Чемпионат WorldSkills. Фестиваль технологических кружков #МЫСАМИ. Проект “Билет в будущее”. Проведение занятий для детей 12-18 лет..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"81058559",
+            "premium":false,
+            "name":"Методист/Старший преподаватель по китайскому языку",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-25T19:11:01+0300",
+            "created_at":"2023-05-25T19:11:01+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=81058559",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/81058559?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/81058559",
+            "relations":[],
+            "employer":{
+                "id":"8894564",
+                "name":"ChinaClass",
+                "url":"https://api.hh.ru/employers/8894564",
+                "alternate_url":"https://hh.ru/employer/8894564",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/5485409.jpeg",
+                    "90":"https://hhcdn.ru/employer-logo/5485408.jpeg",
+                    "original":"https://hhcdn.ru/employer-logo-original/966742.jpeg"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=8894564",
+                "accredited_it_employer":false,
+                "trusted":false
+            },
+            "snippet":{
+                "requirement":"Опыт преподавательской деятельности, не менее 3х лет. Опыт работы методистом, не менее 1 года. Опытный пользователь ПК (работа с...",
+                "responsibility":"Разработка и доработка методики, материалов к урокам. Контроль уроков и успеваемости учеников. Взаимодействие с преподавателями: участие в подборе, обучение и..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"167",
+                    "name":"Методист"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"78373055",
+            "premium":false,
+            "name":"Репетитор по математике (удалённо)",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":null,
+                "to":80000,
+                "currency":"RUR",
+                "gross":true
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-15T15:34:46+0300",
+            "created_at":"2023-05-15T15:34:46+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=78373055",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/78373055?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/78373055",
+            "relations":[],
+            "employer":{
+                "id":"3731347",
+                "name":"Онлайн-школа Тетрика",
+                "url":"https://api.hh.ru/employers/3731347",
+                "alternate_url":"https://hh.ru/employer/3731347",
+                "logo_urls":{
+                    "original":"https://hhcdn.ru/employer-logo-original/785147.jpg",
+                    "240":"https://hhcdn.ru/employer-logo/3581480.jpeg",
+                    "90":"https://hhcdn.ru/employer-logo/3581479.jpeg"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=3731347",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Образование педагогическое или профильное. Опыт преподавания или репетиторства от полугода. Опыт подготовки к ОГЭ и ЕГЭ (если планируете готовить учеников...",
+                "responsibility":"Тетрика — онлайн-школа, которая помогает подготовиться к учёбе дошкольникам, школьникам подтянуть оценки и сдать экзамены, а взрослым — выучить иностранный язык. "
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[
+                {
+                    "id":"from_four_to_six_hours_in_a_day",
+                    "name":"Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":true,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"79770380",
+            "premium":false,
+            "name":"Учитель информатики",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"Советский район, микрорайон Академгородок, Вяземская улица",
+                "building":"4",
+                "lat":54.86785,
+                "lng":83.102294,
+                "description":null,
+                "raw":"Новосибирск, Советский район, микрорайон Академгородок, Вяземская улица, 4",
+                "metro":null,
+                "metro_stations":[],
+                "id":"2866522"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-02T12:35:52+0300",
+            "created_at":"2023-06-02T12:35:52+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=79770380",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/79770380?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/79770380",
+            "relations":[],
+            "employer":{
+                "id":"4173455",
+                "name":"МАОУ ОЦ Горностай",
+                "url":"https://api.hh.ru/employers/4173455",
+                "alternate_url":"https://hh.ru/employer/4173455",
+                "logo_urls":null,
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=4173455",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Высшее педагогическое образование. Желательно опыт работы.",
+                "responsibility":"Обучает и воспитывает обучающихся с учетом специфики преподаваемого предмета и возраста обучающихся, содержания федерального государственного образовательного стандарта (ФГОС), либо федерального..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"noExperience",
+                "name":"Нет опыта"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"76891164",
+            "premium":false,
+            "name":"Социальный педагог",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":28000,
+                "to":null,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"улица Немировича-Данченко",
+                "building":"121",
+                "lat":54.972623,
+                "lng":82.893067,
+                "description":null,
+                "raw":"Новосибирск, улица Немировича-Данченко, 121",
+                "metro":null,
+                "metro_stations":[],
+                "id":"2024871"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-31T03:29:42+0300",
+            "created_at":"2023-05-31T03:29:42+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=76891164",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/76891164?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/76891164",
+            "relations":[],
+            "employer":{
+                "id":"3215210",
+                "name":"ГБПОУ НСО Новосибирский профессионально-педагогический колледж",
+                "url":"https://api.hh.ru/employers/3215210",
+                "alternate_url":"https://hh.ru/employer/3215210",
+                "logo_urls":{
+                    "90":"https://hhcdn.ru/employer-logo/2818491.jpeg",
+                    "240":"https://hhcdn.ru/employer-logo/2818492.jpeg",
+                    "original":"https://hhcdn.ru/employer-logo-original/594309.jpg"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=3215210",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Высшее образование или среднее профессиональное образование в рамках укрупненных групп направлений подготовки высшего образования и специальностей среднего профессионального образования \"Образование...",
+                "responsibility":"Планирование и организация работы со студентами, а также отдельных категорий (дети-сироты и оставшиеся без попечения родителей, дети-инвалиды и..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between3And6",
+                "name":"От 3 до 6 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"80623009",
+            "premium":false,
+            "name":"Преподаватель курса \"Технология разработки и защиты баз данных\" в ВКИ",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"Советский район, микрорайон Академгородок, улица Пирогова",
+                "building":"1",
+                "lat":54.843066,
+                "lng":83.09058,
+                "description":null,
+                "raw":"Новосибирск, Советский район, микрорайон Академгородок, улица Пирогова, 1",
+                "metro":null,
+                "metro_stations":[],
+                "id":"231701"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-18T05:40:43+0300",
+            "created_at":"2023-05-18T05:40:43+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80623009",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80623009?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80623009",
+            "relations":[],
+            "employer":{
+                "id":"1144831",
+                "name":"Новосибирский государственный университет",
+                "url":"https://api.hh.ru/employers/1144831",
+                "alternate_url":"https://hh.ru/employer/1144831",
+                "logo_urls":{
+                    "original":"https://hhcdn.ru/employer-logo-original/394299.png",
+                    "90":"https://hhcdn.ru/employer-logo/2019450.png",
+                    "240":"https://hhcdn.ru/employer-logo/2019451.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=1144831",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Высшее образование. Умение проектировать и опыт проектирования баз данных в реальных приложениях. Опыт в разработке приложений на MS SQL Server. ",
+                "responsibility":"Проведение лабораторных занятий в соответствии с разработанным детализированным учебным планом (план занятий и задания предоставляются преподавателю перед началом преподавательской деятельности..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"96",
+                    "name":"Программист, разработчик"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between3And6",
+                "name":"От 3 до 6 лет"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"80407720",
+            "premium":false,
+            "name":"Учитель биологии",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"Советский район, микрорайон Академгородок, Вяземская улица",
+                "building":"4",
+                "lat":54.86785,
+                "lng":83.102294,
+                "description":null,
+                "raw":"Новосибирск, Советский район, микрорайон Академгородок, Вяземская улица, 4",
+                "metro":null,
+                "metro_stations":[],
+                "id":"2866522"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-02T10:36:11+0300",
+            "created_at":"2023-06-02T10:36:11+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80407720",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80407720?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80407720",
+            "relations":[],
+            "employer":{
+                "id":"4173455",
+                "name":"МАОУ ОЦ Горностай",
+                "url":"https://api.hh.ru/employers/4173455",
+                "alternate_url":"https://hh.ru/employer/4173455",
+                "logo_urls":null,
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=4173455",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Высшее педагогическое образование. Опыт работы.",
+                "responsibility":"Проводит уроки в спецклассах с биохимическим направлением (медицинским) , утвержденным Работодателем. Осуществляет классное руководство. Обучает и воспитывает обучающихся с учетом специфики..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between3And6",
+                "name":"От 3 до 6 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"78049202",
+            "premium":false,
+            "name":"Репетитор по информатике (удаленно)",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":30000,
+                "to":72000,
+                "currency":"RUR",
+                "gross":true
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-25T13:32:31+0300",
+            "created_at":"2023-05-25T13:32:31+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=78049202",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/78049202?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/78049202",
+            "relations":[],
+            "employer":{
+                "id":"3731347",
+                "name":"Онлайн-школа Тетрика",
+                "url":"https://api.hh.ru/employers/3731347",
+                "alternate_url":"https://hh.ru/employer/3731347",
+                "logo_urls":{
+                    "original":"https://hhcdn.ru/employer-logo-original/785147.jpg",
+                    "240":"https://hhcdn.ru/employer-logo/3581480.jpeg",
+                    "90":"https://hhcdn.ru/employer-logo/3581479.jpeg"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=3731347",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Педагогическое или профильное образование. Опыт преподавания или репетиторства. Опыт подготовки к ОГЭ и ЕГЭ ( если планируете готовить учеников к сдаче...",
+                "responsibility":"Тетрика — онлайн-школа, которая помогает подготовиться к учёбе дошкольникам, школьникам подтянуть оценки и сдать экзамены, а взрослым — выучить иностранный язык. "
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[
+                {
+                    "id":"from_four_to_six_hours_in_a_day",
+                    "name":"Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":true,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"78158093",
+            "premium":false,
+            "name":"Преподаватель «Пожарной техники»",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":25000,
+                "to":35000,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"Приморская улица",
+                "building":"43",
+                "lat":54.868005,
+                "lng":82.989708,
+                "description":null,
+                "raw":"Новосибирск, Приморская улица, 43",
+                "metro":null,
+                "metro_stations":[],
+                "id":"4088414"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-31T04:20:22+0300",
+            "created_at":"2023-05-31T04:20:22+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=78158093",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/78158093?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/78158093",
+            "relations":[],
+            "employer":{
+                "id":"3051760",
+                "name":"ФАУ ДПО Учебный центр ФПС по Новосибирской области",
+                "url":"https://api.hh.ru/employers/3051760",
+                "alternate_url":"https://hh.ru/employer/3051760",
+                "logo_urls":null,
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=3051760",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Высшее профессиональное образование или среднее профессиональное образование по направлению подготовки \"Образование и педагогика\" или в области, соответствующей преподаваемому предмету, без...",
+                "responsibility":"Выполнение всех видов учебно-методической работы и обеспечение в полном объеме выполнения учебных планов и программ. - Разработка план – конспектов, методических..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"53809040",
+            "premium":false,
+            "name":"Педагог дополнительного образования по направлению \"Разработка VR/AR приложений\" в IT-куб",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"Советская улица",
+                "building":"63",
+                "lat":55.03449249267578,
+                "lng":82.91357421875,
+                "description":null,
+                "raw":"Новосибирск, Советская улица, 63",
+                "metro":{
+                    "station_name":"Красный проспект",
+                    "line_name":"Ленинская",
+                    "station_id":"52.296",
+                    "line_id":"52",
+                    "lat":55.040998,
+                    "lng":82.917447
+                },
+                "metro_stations":[
+                    {
+                        "station_name":"Красный проспект",
+                        "line_name":"Ленинская",
+                        "station_id":"52.296",
+                        "line_id":"52",
+                        "lat":55.040998,
+                        "lng":82.917447
+                    },
+                    {
+                        "station_name":"Площадь Гарина-Михайловского",
+                        "line_name":"Дзержинская",
+                        "station_id":"53.302",
+                        "line_id":"53",
+                        "lat":55.035947,
+                        "lng":82.897783
+                    },
+                    {
+                        "station_name":"Площадь Ленина",
+                        "line_name":"Ленинская",
+                        "station_id":"52.297",
+                        "line_id":"52",
+                        "lat":55.029941,
+                        "lng":82.92069
+                    },
+                    {
+                        "station_name":"Сибирская",
+                        "line_name":"Дзержинская",
+                        "station_id":"53.303",
+                        "line_id":"53",
+                        "lat":55.042163,
+                        "lng":82.919172
+                    }
+                ],
+                "id":"7260150"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-04T11:24:43+0300",
+            "created_at":"2023-06-04T11:24:43+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=53809040",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/53809040?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/53809040",
+            "relations":[],
+            "employer":{
+                "id":"2320834",
+                "name":"МАОУ Лицей №22 Надежда Сибири",
+                "url":"https://api.hh.ru/employers/2320834",
+                "alternate_url":"https://hh.ru/employer/2320834",
+                "logo_urls":null,
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=2320834",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Опыт работы с Unity, Vuforia. Высшее или средне – специальное педагогическое образования (можно так же студентов последних курсов обучения). ",
+                "responsibility":"Олимпиада КД НТИ. Чемпионат WorldSkills. Фестиваль технологических кружков #МЫСАМИ. Проект “Билет в будущее”. Участие в формировании учебных программ Подготовка учащихся..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"77544770",
+            "premium":false,
+            "name":"Репетитор по математике онлайн (10-11 класс)",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":null,
+                "to":80000,
+                "currency":"RUR",
+                "gross":true
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-19T13:11:49+0300",
+            "created_at":"2023-05-19T13:11:49+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=77544770",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/77544770?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/77544770",
+            "relations":[],
+            "employer":{
+                "id":"3731347",
+                "name":"Онлайн-школа Тетрика",
+                "url":"https://api.hh.ru/employers/3731347",
+                "alternate_url":"https://hh.ru/employer/3731347",
+                "logo_urls":{
+                    "original":"https://hhcdn.ru/employer-logo-original/785147.jpg",
+                    "240":"https://hhcdn.ru/employer-logo/3581480.jpeg",
+                    "90":"https://hhcdn.ru/employer-logo/3581479.jpeg"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=3731347",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Образование педагогическое или профильное. Опыт преподавания или репетиторства от полугода. Опыт подготовки к ЕГЭ (если планируете готовить учеников к сдаче...",
+                "responsibility":"Тетрика — онлайн-школа, которая помогает подготовиться к учёбе дошкольникам, школьникам подтянуть оценки и сдать экзамены, а взрослым — выучить иностранный язык. "
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[
+                {
+                    "id":"from_four_to_six_hours_in_a_day",
+                    "name":"Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"80208823",
+            "premium":false,
+            "name":"Учитель биологии и географии",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"посёлок Октябрьский",
+                "street":"улица Луч",
+                "building":"1/1",
+                "lat":55.194059,
+                "lng":83.088989,
+                "description":null,
+                "raw":"посёлок Октябрьский, улица Луч, 1/1",
+                "metro":null,
+                "metro_stations":[],
+                "id":"5940652"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-03T07:56:13+0300",
+            "created_at":"2023-06-03T07:56:13+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80208823",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80208823?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80208823",
+            "relations":[],
+            "employer":{
+                "id":"4771262",
+                "name":"Мира",
+                "url":"https://api.hh.ru/employers/4771262",
+                "alternate_url":"https://hh.ru/employer/4771262",
+                "logo_urls":{
+                    "90":"https://hhcdn.ru/employer-logo/3888667.jpeg",
+                    "240":"https://hhcdn.ru/employer-logo/3888668.jpeg",
+                    "original":"https://hhcdn.ru/employer-logo-original/861948.jpg"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=4771262",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Опыт работы педагогом биологии и географии не менее 3х лет. Обязателен практикоориентированный подход. Отличное владение своим предметом с готовностью...",
+                "responsibility":"Обучение по дисциплинам география и биология детей 5-6 класса. Подготовка и проведение занятий с учётом авторского подхода и концепции..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between3And6",
+                "name":"От 3 до 6 лет"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"81221138",
+            "premium":false,
+            "name":"Преподаватель английского языка в онлайн-школу",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":25000,
+                "to":75000,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-04T11:00:02+0300",
+            "created_at":"2023-06-04T11:00:02+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=81221138",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/81221138?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/81221138",
+            "relations":[],
+            "employer":{
+                "id":"1124769",
+                "name":"Инглекс, онлайн-школа английского языка",
+                "url":"https://api.hh.ru/employers/1124769",
+                "alternate_url":"https://hh.ru/employer/1124769",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/2752012.png",
+                    "90":"https://hhcdn.ru/employer-logo/2752011.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/577685.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=1124769",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Опыт преподавания английского от 1 года. Высшее образование: филологическое, лингвистическое или педагогическое. Уровень владения английским языком от Upper-Intermediate и...",
+                "responsibility":"Повышение квалификации. Вы сможете посещать методические вебинары и разговорные клубы с носителями языка. Дружеская атмосфера. Вы оцените отзывчивость наших сотрудников..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"80287851",
+            "premium":false,
+            "name":"Преподаватель по коррекции фигуры / депиляции",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":35000,
+                "to":null,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":{
+                "city":"Новосибирск",
+                "street":"Депутатская улица",
+                "building":"46",
+                "lat":55.028894,
+                "lng":82.926493,
+                "description":null,
+                "raw":"Новосибирск, Депутатская улица, 46",
+                "metro":{
+                    "station_name":"Площадь Ленина",
+                    "line_name":"Ленинская",
+                    "station_id":"52.297",
+                    "line_id":"52",
+                    "lat":55.029941,
+                    "lng":82.92069
+                },
+                "metro_stations":[
+                    {
+                        "station_name":"Площадь Ленина",
+                        "line_name":"Ленинская",
+                        "station_id":"52.297",
+                        "line_id":"52",
+                        "lat":55.029941,
+                        "lng":82.92069
+                    }
+                ],
+                "id":"13273769"
+            },
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-04T11:02:21+0300",
+            "created_at":"2023-06-04T11:02:21+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80287851",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80287851?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80287851",
+            "relations":[],
+            "employer":{
+                "id":"9827121",
+                "name":"Дудрев Денис Витальевич",
+                "url":"https://api.hh.ru/employers/9827121",
+                "alternate_url":"https://hh.ru/employer/9827121",
+                "logo_urls":null,
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=9827121",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"грамотная речь. - целеустремленность. - ответственность. - аккуратность. - опыт работы мастером не менее 1 года. Преподавательский опыт и знание рынка профессиональной косметики приветствуются. ",
+                "responsibility":"Участие в выставках, конгрессах."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[],
+            "accept_temporary":false,
+            "professional_roles":[
+                {
+                    "id":"56",
+                    "name":"Косметолог"
+                }
+            ],
+            "accept_incomplete_resumes":true,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"79321803",
+            "premium":false,
+            "name":"Преподаватель в онлайн-школу (удаленно) на ментальную арифметику",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":45000,
+                "to":85000,
+                "currency":"RUR",
+                "gross":false
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-03T09:47:31+0300",
+            "created_at":"2023-06-03T09:47:31+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=79321803",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/79321803?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/79321803",
+            "relations":[],
+            "employer":{
+                "id":"3127202",
+                "name":"GENIUS SCHOOL",
+                "url":"https://api.hh.ru/employers/3127202",
+                "alternate_url":"https://hh.ru/employer/3127202",
+                "logo_urls":{
+                    "90":"https://hhcdn.ru/employer-logo/3390637.png",
+                    "240":"https://hhcdn.ru/employer-logo/3390638.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/737415.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=3127202",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"У вас есть опыт работы с детьми в онлайн-школах или других образовательных учреждениях. У вас высшее или среднее педагогическое...",
+                "responsibility":"Развитие детей по самым трендовым результативным направлениям по собственным методикам: ментальная арифметика, скорочтение, математика. Проводить ОНЛАЙН-занятия и пробные уроки..."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"noExperience",
+                "name":"Нет опыта"
+            },
+            "employment":{
+                "id":"full",
+                "name":"Полная занятость"
+            }
+        },
+        {
+            "id":"78615328",
+            "premium":false,
+            "name":"Репетитор по физике (удалённо)",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":{
+                "from":null,
+                "to":72000,
+                "currency":"RUR",
+                "gross":true
+            },
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-05-22T13:00:05+0300",
+            "created_at":"2023-05-22T13:00:05+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=78615328",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/78615328?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/78615328",
+            "relations":[],
+            "employer":{
+                "id":"3731347",
+                "name":"Онлайн-школа Тетрика",
+                "url":"https://api.hh.ru/employers/3731347",
+                "alternate_url":"https://hh.ru/employer/3731347",
+                "logo_urls":{
+                    "original":"https://hhcdn.ru/employer-logo-original/785147.jpg",
+                    "240":"https://hhcdn.ru/employer-logo/3581480.jpeg",
+                    "90":"https://hhcdn.ru/employer-logo/3581479.jpeg"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=3731347",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Педагогическое или профильное образование. Опыт преподавания или репетиторской деятельности. Опыт подготовки к ОГЭ и ЕГЭ ( если планируете готовить учеников к...",
+                "responsibility":"Тетрика — онлайн-школа, которая помогает подготовиться к учёбе дошкольникам, школьникам подтянуть оценки и сдать экзамены, а взрослым — выучить иностранный язык. "
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[
+                {
+                    "id":"from_four_to_six_hours_in_a_day",
+                    "name":"Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"between1And3",
+                "name":"От 1 года до 3 лет"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"80605008",
+            "premium":false,
+            "name":"Преподаватель физики",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-04T15:39:32+0300",
+            "created_at":"2023-06-04T15:39:32+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80605008",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80605008?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80605008",
+            "relations":[],
+            "employer":{
+                "id":"1159470",
+                "name":"MAXIMUM EDUCATION",
+                "url":"https://api.hh.ru/employers/1159470",
+                "alternate_url":"https://hh.ru/employer/1159470",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/5488953.png",
+                    "90":"https://hhcdn.ru/employer-logo/5488952.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/967459.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=1159470",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"В том числе студенты, аспиранты и выпускники ведущих университетов. — Высокий уровень знаний предмета. — Открытость к общению и работе с людьми. — ",
+                "responsibility":null
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"noExperience",
+                "name":"Нет опыта"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"81297470",
+            "premium":false,
+            "name":"Преподаватель физики (удаленно)",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-02T12:25:13+0300",
+            "created_at":"2023-06-02T12:25:13+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=81297470",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/81297470?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/81297470",
+            "relations":[],
+            "employer":{
+                "id":"1159470",
+                "name":"MAXIMUM EDUCATION",
+                "url":"https://api.hh.ru/employers/1159470",
+                "alternate_url":"https://hh.ru/employer/1159470",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/5488953.png",
+                    "90":"https://hhcdn.ru/employer-logo/5488952.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/967459.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=1159470",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"Студент, выпускник или аспирант ведущего вуза. — Высокий уровень знаний предмета. — Открытость к общению и работе с людьми. — Желание обучаться новому. — ",
+                "responsibility":null
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"noExperience",
+                "name":"Нет опыта"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        },
+        {
+            "id":"80479440",
+            "premium":false,
+            "name":"Преподаватель информатики (удаленно)",
+            "department":null,
+            "has_test":false,
+            "response_letter_required":false,
+            "area":{
+                "id":"4",
+                "name":"Новосибирск",
+                "url":"https://api.hh.ru/areas/4"
+            },
+            "salary":null,
+            "type":{
+                "id":"open",
+                "name":"Открытая"
+            },
+            "address":null,
+            "response_url":null,
+            "sort_point_distance":null,
+            "published_at":"2023-06-03T09:40:44+0300",
+            "created_at":"2023-06-03T09:40:44+0300",
+            "archived":false,
+            "apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=80479440",
+            "insider_interview":null,
+            "url":"https://api.hh.ru/vacancies/80479440?host=hh.ru",
+            "adv_response_url":null,
+            "alternate_url":"https://hh.ru/vacancy/80479440",
+            "relations":[],
+            "employer":{
+                "id":"1159470",
+                "name":"MAXIMUM EDUCATION",
+                "url":"https://api.hh.ru/employers/1159470",
+                "alternate_url":"https://hh.ru/employer/1159470",
+                "logo_urls":{
+                    "240":"https://hhcdn.ru/employer-logo/5488953.png",
+                    "90":"https://hhcdn.ru/employer-logo/5488952.png",
+                    "original":"https://hhcdn.ru/employer-logo-original/967459.png"
+                },
+                "vacancies_url":"https://api.hh.ru/vacancies?employer_id=1159470",
+                "accredited_it_employer":false,
+                "trusted":true
+            },
+            "snippet":{
+                "requirement":"также Студент, выпускник или аспирант ведущего вуза. — Высокий уровень знаний предмета. — Открытость к общению и работе с людьми. — ",
+                "responsibility":"Возможность выбирать классы для работы (преподавание в 8-11 классах)."
+            },
+            "contacts":null,
+            "schedule":null,
+            "working_days":[],
+            "working_time_intervals":[],
+            "working_time_modes":[
+                {
+                    "id":"start_after_sixteen",
+                    "name":"Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary":true,
+            "professional_roles":[
+                {
+                    "id":"132",
+                    "name":"Учитель, преподаватель, педагог"
+                }
+            ],
+            "accept_incomplete_resumes":false,
+            "experience":{
+                "id":"noExperience",
+                "name":"Нет опыта"
+            },
+            "employment":{
+                "id":"part",
+                "name":"Частичная занятость"
+            }
+        }
+    ],
+    "found":256,
+    "pages":3,
+    "per_page":100,
+    "page":2,
+    "clusters":null,
+    "arguments":null,
+    "alternate_url":"https://hh.ru/search/vacancy?area=1202&enable_snippets=true&items_on_page=100&page=2&text=NAME%3A%D1%83%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C"
+}
