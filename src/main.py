@@ -1,4 +1,6 @@
-from classes import *
+from classes import Vacancy, JSONVacancyFileManager
+from classes_api import HHVacancyAPI, SJVacancyAPI
+import json
 
 
 def main():
@@ -34,11 +36,15 @@ def main():
             data = json.load(f)
             for item in data["items"]:
                 title = item["name"]
-                area = item["area"]["name"] if "name" in item["area"] and \
-                                               item["area"][
-                                                   "name"] == region_name else None
-                salary = item["salary"]["to"] if item["salary"] and "to" in \
-                                                 item["salary"] else None
+                area = item["area"]["name"]
+                if item["salary"]:
+                    salary_from = item['salary']['from'] if item['salary'][
+                        'from'] else 0
+                    salary_to = item['salary']['to'] if item['salary'][
+                        'to'] else 0
+                    salary = abs(salary_to - salary_from)
+                else:
+                    salary = None
                 employment = item["employment"]["name"]
                 vacancy = Vacancy(title, area, salary, employment)
                 if vacancy.validate():
@@ -61,7 +67,7 @@ def main():
             for item in data["objects"]:
                 title = item["profession"]
                 area = item["town"]["title"]
-                salary = item["payment_to"] if item["payment_to"] else None
+                salary = abs(item["payment_to"] - item["payment_from"])
                 employment = item['type_of_work']['title']
                 vacancy = Vacancy(title, area, salary, employment)
 
@@ -70,46 +76,50 @@ def main():
                     vacancies.append(vacancy)
 
     # Ведем основную работу по уже готовым вакансиям с пользователем
-    print("Let's go through the vacancies")
     print(f"Total found {len(vacancies)}")
-    # Предлагаем посмотреть какое-то число вакансий
-    number_to_view = int(input(
-        "How many pieces will we look at from them?(Specify the number):"))
-    if len(vacancies) < number_to_view:
-        number_to_view = len(vacancies)
-    # Создаем файловый менеджер для дальнейшей работы с ним
-    filemanager = JSONVacancyFileManager()
-    # Сортируем данные для удобства по убыванию зарплаты
-    print("Vacancies are sorted in descending order of salary")
-    vacancies.sort(key=lambda x: x, reverse=True)
-    # Заполняем результирующий json-файл с подходящими вакансиями
-    for i in range(number_to_view):
-        filemanager.add_vacancy(vacancies[i])
-    list_index_to_remove = []
-    # Предлагаем убрать неподходящие вакансии
-    for i in range(number_to_view):
-        print(vacancies[i])
-        print("Is this vacancy suitable for you?(Да/Нет)")
-        if input().lower() == "нет":
-            list_index_to_remove.append(i)
-    # Убираем все неподходящие вакансии
-    filemanager.remove_vacancy(list_index_to_remove)
-    # Предлагае отфильтровать только те вакансии, которые нужны пользователю
-    # в данный момент из результирующего json-файла
-    print("По каким критериям хочешь получить вакансии?(название/место/зарплата/занятость: ")
-    criterion = input().lower()
-    if criterion == "зарплата":
-        requirement = input("Укажи предел(число):")
-    elif criterion == "название":
-        requirement = input("какое слово будем искать в должности?")
-    elif criterion == "место":
-        requirement = input("Какой город нужен?")
+    if len(vacancies):
+        print("Let's go through the vacancies")
+        print(f"Total found {len(vacancies)}")
+        # Предлагаем посмотреть какое-то число вакансий
+        number_to_view = int(input(
+            "How many pieces will we look at from them?(Specify the number):"))
+        if len(vacancies) < number_to_view:
+            number_to_view = len(vacancies)
+        # Создаем файловый менеджер для дальнейшей работы с ним
+        filemanager = JSONVacancyFileManager()
+        # Сортируем данные для удобства по убыванию зарплаты
+        print("Vacancies are sorted in descending order of salary")
+        vacancies.sort(key=lambda x: x, reverse=True)
+        # Заполняем результирующий json-файл с подходящими вакансиями
+        for i in range(number_to_view):
+            filemanager.add_vacancy(vacancies[i])
+        list_index_to_remove = []
+        # Предлагаем убрать неподходящие вакансии
+        for i in range(number_to_view):
+            print(vacancies[i])
+            print("Is this vacancy suitable for you?(Да/Нет)")
+            if input().lower() == "нет":
+                list_index_to_remove.append(i)
+        # Убираем все неподходящие вакансии
+        filemanager.remove_vacancy(list_index_to_remove)
+        # Предлагае отфильтровать только те вакансии, которые нужны пользователю
+        # в данный момент из результирующего json-файла
+        print(
+            "По каким критериям хочешь получить вакансии?(название/место/зарплата/занятость: ")
+        criterion = input().lower()
+        if criterion == "зарплата":
+            requirement = input("Укажи предел(число):")
+        elif criterion == "название":
+            requirement = input("какое слово будем искать в должности?")
+        elif criterion == "место":
+            requirement = input("Какой город нужен?")
+        else:
+            requirement = input("Какая занятость нужна?")
+        # Выводим отфильтрованные вакансии
+        print("Here is a list of suitable vacancies:")
+        print(*filemanager.get_vacancies(criterion, requirement), sep="\n")
     else:
-        requirement = input("Какая занятость нужна?")
-    # Выводим отфильтрованные вакансии
-    print("Here is a list of suitable vacancies:")
-    print(*filemanager.get_vacancies(criterion, requirement), sep="\n")
-
+        print("try another later")
 
 if __name__ == "__main__":
     main()

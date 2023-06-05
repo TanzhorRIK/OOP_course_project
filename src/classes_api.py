@@ -46,8 +46,13 @@ class HHVacancyAPI(abstract_classes.VacancyAPI):
             with open("../vacanci/hh.json", mode='w', encoding='utf8') as f:
                 f.write(json.dumps(jsObj, ensure_ascii=False, indent=4,
                                    separators=(",", ":")))
-            f.close()
 
+            #
+            # with open("../vacanci/hh.json", "r", encoding="utf-8") as in_data:
+            #     data = in_data.read()
+            # data = data.replace("null", "None")
+            # with open("../vacanci/hh.json", "w", encoding="utf-8") as out_f:
+            #     print(data, file=out_f)
             if (jsObj['pages'] - page) <= 1:
                 break
 
