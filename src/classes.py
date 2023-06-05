@@ -20,7 +20,7 @@ class VacancyAPI(ABC):
 
 
 class VacancyFileManager(ABC):
-    """Обстарктный класс"""
+    """Обстрактный класс"""
 
     @abstractmethod
     def add_vacancy(self, vacancy):
