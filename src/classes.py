@@ -5,8 +5,8 @@ import json
 class Vacancy:
     """Класс для созданной вакансии"""
 
-    def __init__(self, title=None, area=None, salary=None,
-                 employment=None) -> None:
+    def __init__(self, title: str, area: str, salary: int,
+                 employment: str) -> None:
         self.title = title
         self.area = area
         self.salary = salary
@@ -23,7 +23,7 @@ class Vacancy:
         return f"Vacancy(title='{self.title}', salary='{self.salary}')"
 
     def __str__(self):
-        return f"------------------\nНазвание: {self.title}\nГород: {self.area}\nЗарплата: {self.salary}\nЗанятость: {self.employment}"
+        return f"------------------\nНазвание: {self.title}\nГород: {self.area}\nСредняя зарплата: {self.salary}\nЗанятость: {self.employment}"
 
     def __eq__(self, other):
         return self.salary == other.salary
@@ -73,10 +73,14 @@ class JSONVacancyFileManager(abstract_classes.VacancyFileManager):
         with open(self.filename, 'r', encoding="utf-8") as file:
             for line in file:
                 vacancy_data = json.loads(line)
-                if (criterion == "зарплата" and int(requirement) >= vacancy_data['salary'] or
-                        criterion == "название" and requirement.lower() in vacancy_data["title"].lower() or
-                        criterion == "место" and requirement.lower() in vacancy_data['area'].lower() or
-                        criterion == "занятость" and requirement.lower() in vacancy_data['employment'].lower()):
+                if (criterion == "зарплата" and int(requirement) >=
+                        vacancy_data['salary'] or
+                        criterion == "название" and requirement.lower() in
+                        vacancy_data["title"].lower() or
+                        criterion == "место" and requirement.lower() in
+                        vacancy_data['area'].lower() or
+                        criterion == "занятость" and requirement.lower() in
+                        vacancy_data['employment'].lower()):
                     vacancies.append(Vacancy(
                         vacancy_data['title'],
                         vacancy_data['area'],
